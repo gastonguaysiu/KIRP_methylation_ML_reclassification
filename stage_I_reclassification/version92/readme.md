@@ -9,5 +9,5 @@ The **run.R** script will produce a variety of files needed for analysis and the
 
 The **run2.R** script will produce clinical_cluster_data.csv: this file contains the clustering and clinical data for all samples. It therefore allows us to benchmark our categorization against clinical features.
 
-The **mval)run_sum.R** script will produce mval_sum.csv: this file contains similar data as the stat_summary.csv file; however, it is derived from the M-values (instead of beta values). mval_sum.csv contains the average M-value of each cluster and control, the standard deviation, the p-value, and the p-adjusted values compared to the healthy tissue controls.
+The **mval_run_sum.R** script will produce mval_sum.csv: this file contains similar data as the stat_summary.csv file; however, it is derived from the M-values (instead of beta values). mval_sum.csv contains the average M-value of each cluster and control, the standard deviation, the p-value, and the p-adjusted values compared to the healthy tissue controls.
 
