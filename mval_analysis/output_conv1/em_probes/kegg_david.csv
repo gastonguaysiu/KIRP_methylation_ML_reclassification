@@ -1,0 +1,7 @@
+Category,Term,Count,%,P-Value,Benjamini
+KEGG_PATHWAY,Rap1 signaling pathway,6,3.8,3.70E-02,1.00E+00
+KEGG_PATHWAY,Metabolic pathways,21,13.5,4.00E-02,1.00E+00
+KEGG_PATHWAY,MAPK signaling pathway,7,4.5,4.40E-02,1.00E+00
+KEGG_PATHWAY,Endocytosis,6,3.8,6.90E-02,1.00E+00
+KEGG_PATHWAY,PI3K-Akt signaling pathway,7,4.5,9.00E-02,1.00E+00
+KEGG_PATHWAY,Focal adhesion,5,3.2,1.00E-01,1.00E+00

@@ -1,0 +1,7 @@
+Category,Term,Count,%,P-Value,Benjamini
+GOTERM_BP_DIRECT,"positive regulation of transcription, DNA-templated",7,24.1,0.00041,0.11
+GOTERM_BP_DIRECT,positive regulation of transcription from RNA polymerase II promoter,5,17.2,0.085,1
+GOTERM_BP_DIRECT,"negative regulation of transcription, DNA-templated",4,13.8,0.048,1
+GOTERM_BP_DIRECT,cell differentiation,4,13.8,0.068,1
+GOTERM_BP_DIRECT,histone modification,3,10.3,0.0053,0.68
+GOTERM_BP_DIRECT,"mRNA splicing, via spliceosome",3,10.3,0.032,1

@@ -1,0 +1,12 @@
+Category,Term,Count,%,P-Value,Benjamini
+GOTERM_BP_DIRECT,regulation of transcription from RNA polymerase II promoter,11,17.5,0.046,1
+GOTERM_BP_DIRECT,peptidyl-tyrosine phosphorylation,5,7.9,0.0011,0.58
+GOTERM_BP_DIRECT,protein phosphorylation,5,7.9,0.078,1
+GOTERM_BP_DIRECT,positive regulation of gene expression,5,7.9,0.088,1
+GOTERM_BP_DIRECT,protein autophosphorylation,4,6.3,0.021,1
+KEGG_PATHWAY,Calcium signaling pathway,4,6.3,0.043,1
+KEGG_PATHWAY,Endocytosis,4,6.3,0.048,1
+GOTERM_BP_DIRECT,phosphatidylinositol biosynthetic process,3,4.8,0.0096,1
+GOTERM_BP_DIRECT,cation transmembrane transport,3,4.8,0.012,1
+GOTERM_BP_DIRECT,gene expression,3,4.8,0.034,1
+GOTERM_BP_DIRECT,positive regulation of MAPK cascade,3,4.8,0.093,1

@@ -1,0 +1,23 @@
+Category,Term,Count,%,P-Value,Benjamini
+GOTERM_BP_DIRECT,regulation of transcription from RNA polymerase II promoter,21,13.5,0.042,1
+KEGG_PATHWAY,Metabolic pathways,21,13.5,0.04,1
+GOTERM_BP_DIRECT,positive regulation of transcription from RNA polymerase II promoter,17,10.9,0.024,1
+GOTERM_BP_DIRECT,"positive regulation of transcription, DNA-templated",16,10.3,0,0.57
+GOTERM_BP_DIRECT,"negative regulation of transcription, DNA-templated",12,7.7,0.006,1
+GOTERM_BP_DIRECT,negative regulation of apoptotic process,10,6.4,0.022,1
+GOTERM_BP_DIRECT,apoptotic process,10,6.4,0.046,1
+GOTERM_BP_DIRECT,positive regulation of cell proliferation,9,5.8,0.065,1
+KEGG_PATHWAY,MAPK signaling pathway,7,4.5,0.044,1
+KEGG_PATHWAY,PI3K-Akt signaling pathway,7,4.5,0.09,1
+GOTERM_BP_DIRECT,brain development,6,3.8,0.061,1
+KEGG_PATHWAY,Rap1 signaling pathway,6,3.8,0.037,1
+KEGG_PATHWAY,Endocytosis,6,3.8,0.069,1
+GOTERM_BP_DIRECT,neuron projection development,5,3.2,0.018,1
+GOTERM_BP_DIRECT,peptidyl-tyrosine phosphorylation,5,3.2,0.025,1
+GOTERM_BP_DIRECT,positive regulation of MAPK cascade,5,3.2,0.036,1
+GOTERM_BP_DIRECT,protein autophosphorylation,5,3.2,0.052,1
+GOTERM_BP_DIRECT,multicellular organism development,5,3.2,0.087,1
+GOTERM_BP_DIRECT,heart development,5,3.2,0.09,1
+KEGG_PATHWAY,Focal adhesion,5,3.2,0.1,1
+GOTERM_BP_DIRECT,cation transmembrane transport,4,2.6,0.007,1
+GOTERM_BP_DIRECT,gene expression,4,2.6,0.032,1

@@ -1,0 +1,7 @@
+Category,Term,Count,%,P-Value,Benjamini
+GOTERM_BP_DIRECT,"positive regulation of transcription, DNA-templated",7,21.2,0.0011,0.43
+GOTERM_BP_DIRECT,"regulation of transcription, DNA-templated",5,15.2,0.076,1
+GOTERM_BP_DIRECT,"negative regulation of transcription, DNA-templated",4,12.1,0.073,1
+GOTERM_BP_DIRECT,wound healing,3,9.1,0.013,1
+GOTERM_BP_DIRECT,"mRNA splicing, via spliceosome",3,9.1,0.044,1
+GOTERM_BP_DIRECT,response to drug,3,9.1,0.084,1

@@ -1,0 +1,7 @@
+Category,Term,Count,%,P-Value,Benjamini
+KEGG_PATHWAY,Pathways in cancer,5,16.1,0.026,1
+GOTERM_BP_DIRECT,wound healing,3,9.7,0.011,1
+GOTERM_BP_DIRECT,"mRNA splicing, via spliceosome",3,9.7,0.039,1
+GOTERM_BP_DIRECT,multicellular organism development,3,9.7,0.044,1
+GOTERM_BP_DIRECT,angiogenesis,3,9.7,0.058,1
+GOTERM_BP_DIRECT,response to drug,3,9.7,0.075,1

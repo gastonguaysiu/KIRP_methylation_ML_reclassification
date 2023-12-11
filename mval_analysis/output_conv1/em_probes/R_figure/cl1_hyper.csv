@@ -1,0 +1,8 @@
+Category,Term,Count,%,P-Value,Benjamini
+GOTERM_BP_DIRECT,regulation of transcription from RNA polymerase II promoter,12,18.2,0.028,1
+GOTERM_BP_DIRECT,"positive regulation of transcription, DNA-templated",6,9.1,0.096,1
+GOTERM_BP_DIRECT,protein phosphorylation,5,7.6,0.089,1
+GOTERM_BP_DIRECT,phosphatidylinositol biosynthetic process,3,4.5,0.01,1
+GOTERM_BP_DIRECT,gene expression,3,4.5,0.037,1
+GOTERM_BP_DIRECT,neuron projection development,3,4.5,0.071,1
+KEGG_PATHWAY,Morphine addiction,3,4.5,0.038,1

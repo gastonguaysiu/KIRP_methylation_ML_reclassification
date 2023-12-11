@@ -1,0 +1,9 @@
+Category,Term,Count,%,P-Value,Benjamini
+GOTERM_BP_DIRECT,protein transport,5,8.6,0.038,1
+GOTERM_BP_DIRECT,protein phosphorylation,5,8.6,0.058,1
+GOTERM_BP_DIRECT,regulation of catalytic activity,4,6.9,0.096,1
+GOTERM_BP_DIRECT,phosphatidylinositol biosynthetic process,3,5.2,0.0079,1
+GOTERM_BP_DIRECT,cation transmembrane transport,3,5.2,0.0096,1
+GOTERM_BP_DIRECT,peptidyl-tyrosine phosphorylation,3,5.2,0.065,1
+GOTERM_BP_DIRECT,central nervous system development,3,5.2,0.07,1
+GOTERM_BP_DIRECT,protein autophosphorylation,3,5.2,0.098,1

@@ -1,0 +1,12 @@
+Category,Term,Count,%,P-Value,Benjamini
+GOTERM_BP_DIRECT,"positive regulation of transcription, DNA-templated",7,24.1,4.10E-04,1.10E-01
+GOTERM_BP_DIRECT,histone modification,3,10.3,5.30E-03,6.80E-01
+GOTERM_BP_DIRECT,heterochromatin organization,2,6.9,1.50E-02,1.00E+00
+GOTERM_BP_DIRECT,"mRNA splicing, via spliceosome",3,10.3,3.20E-02,1.00E+00
+GOTERM_BP_DIRECT,"negative regulation of transcription, DNA-templated",4,13.8,4.80E-02,1.00E+00
+GOTERM_BP_DIRECT,cell differentiation,4,13.8,6.80E-02,1.00E+00
+GOTERM_BP_DIRECT,cellular iron ion homeostasis,2,6.9,7.80E-02,1.00E+00
+GOTERM_BP_DIRECT,positive regulation of transcription from RNA polymerase II promoter,5,17.2,8.50E-02,1.00E+00
+KEGG_PATHWAY,Lysine degradation,2,6.9,9.50E-02,
+KEGG_PATHWAY,Inflammatory bowel disease,2,6.9,9.80E-02,1.00E+00
+,,,,,1.00E+00

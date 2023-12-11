@@ -1,0 +1,19 @@
+Category,Term,Count,%,P-Value,Benjamini
+GOTERM_BP_DIRECT,phosphatidylinositol biosynthetic process,3,5.2,7.90E-03,1.00E+00
+GOTERM_BP_DIRECT,cation transmembrane transport,3,5.2,9.60E-03,1.00E+00
+GOTERM_BP_DIRECT,positive regulation of epithelial cell differentiation,2,3.4,2.30E-02,1.00E+00
+GOTERM_BP_DIRECT,ventral spinal cord development,2,3.4,2.60E-02,1.00E+00
+GOTERM_BP_DIRECT,protein transport,5,8.6,3.80E-02,1.00E+00
+GOTERM_BP_DIRECT,layer formation in cerebral cortex,2,3.4,4.00E-02,1.00E+00
+GOTERM_BP_DIRECT,embryonic camera-type eye morphogenesis,2,3.4,4.30E-02,1.00E+00
+GOTERM_BP_DIRECT,astrocyte differentiation,2,3.4,4.80E-02,1.00E+00
+GOTERM_BP_DIRECT,protein phosphorylation,5,8.6,5.80E-02,1.00E+00
+GOTERM_BP_DIRECT,peptidyl-tyrosine phosphorylation,3,5.2,6.50E-02,1.00E+00
+GOTERM_BP_DIRECT,central nervous system development,3,5.2,7.00E-02,1.00E+00
+GOTERM_BP_DIRECT,peripheral nervous system development,2,3.4,8.10E-02,1.00E+00
+GOTERM_BP_DIRECT,skeletal system morphogenesis,2,3.4,9.10E-02,1.00E+00
+GOTERM_BP_DIRECT,regulation of catalytic activity,4,6.9,9.60E-02,1.00E+00
+GOTERM_BP_DIRECT,protein autophosphorylation,3,5.2,9.80E-02,1.00E+00
+,,,,,
+KEGG_PATHWAY,Maturity onset diabetes of the young,2,3.4,6.80E-02,1.00E+00
+KEGG_PATHWAY,SNARE interactions in vesicular transport,2,3.4,8.50E-02,1.00E+00

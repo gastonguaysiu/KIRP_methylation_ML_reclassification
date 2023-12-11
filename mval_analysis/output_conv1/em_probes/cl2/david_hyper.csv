@@ -1,0 +1,24 @@
+Category,Term,Count,%,P-Value,Benjamini
+GOTERM_BP_DIRECT,peptidyl-tyrosine phosphorylation,5,7.9,1.10E-03,5.80E-01
+GOTERM_BP_DIRECT,phosphatidylinositol biosynthetic process,3,4.8,9.60E-03,1.00E+00
+GOTERM_BP_DIRECT,cation transmembrane transport,3,4.8,1.20E-02,1.00E+00
+GOTERM_BP_DIRECT,protein autophosphorylation,4,6.3,2.10E-02,1.00E+00
+GOTERM_BP_DIRECT,positive regulation of epithelial cell differentiation,2,3.2,2.50E-02,1.00E+00
+GOTERM_BP_DIRECT,ventral spinal cord development,2,3.2,2.90E-02,1.00E+00
+GOTERM_BP_DIRECT,gene expression,3,4.8,3.40E-02,1.00E+00
+GOTERM_BP_DIRECT,layer formation in cerebral cortex,2,3.2,4.40E-02,1.00E+00
+GOTERM_BP_DIRECT,regulation of transcription from RNA polymerase II promoter,11,17.5,4.60E-02,1.00E+00
+GOTERM_BP_DIRECT,vascular endothelial growth factor signaling pathway,2,3.2,5.00E-02,1.00E+00
+GOTERM_BP_DIRECT,vasculature development,2,3.2,5.00E-02,1.00E+00
+GOTERM_BP_DIRECT,spinal cord motor neuron differentiation,2,3.2,5.30E-02,1.00E+00
+GOTERM_BP_DIRECT,astrocyte differentiation,2,3.2,5.30E-02,1.00E+00
+GOTERM_BP_DIRECT,blood vessel morphogenesis,2,3.2,5.90E-02,1.00E+00
+GOTERM_BP_DIRECT,protein phosphorylation,5,7.9,7.80E-02,1.00E+00
+GOTERM_BP_DIRECT,positive regulation of gene expression,5,7.9,8.80E-02,1.00E+00
+GOTERM_BP_DIRECT,vascular endothelial growth factor receptor signaling pathway,2,3.2,9.20E-02,1.00E+00
+GOTERM_BP_DIRECT,positive regulation of MAPK cascade,3,4.8,9.30E-02,1.00E+00
+GOTERM_BP_DIRECT,positive regulation of phosphatidylinositol 3-kinase activity,2,3.2,9.80E-02,1.00E+00
+,,,,,
+KEGG_PATHWAY,Calcium signaling pathway,4,6.3,4.30E-02,1.00E+00
+KEGG_PATHWAY,Endocytosis,4,6.3,4.80E-02,1.00E+00
+KEGG_PATHWAY,Maturity onset diabetes of the young,2,3.2,8.20E-02,1.00E+00

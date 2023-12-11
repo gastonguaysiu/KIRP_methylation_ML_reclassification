@@ -1,0 +1,11 @@
+Category,Term,Count,%,P-Value,Benjamini
+GOTERM_BP_DIRECT,wound healing,3,9.7,1.10E-02,1.00E+00
+GOTERM_BP_DIRECT,vasculature development,2,6.5,2.50E-02,1.00E+00
+GOTERM_BP_DIRECT,"mRNA splicing, via spliceosome",3,9.7,3.90E-02,1.00E+00
+GOTERM_BP_DIRECT,multicellular organism development,3,9.7,4.40E-02,1.00E+00
+GOTERM_BP_DIRECT,positive regulation of vascular endothelial growth factor production,2,6.5,4.60E-02,1.00E+00
+GOTERM_BP_DIRECT,angiogenesis,3,9.7,5.80E-02,1.00E+00
+GOTERM_BP_DIRECT,lung alveolus development,2,6.5,6.00E-02,1.00E+00
+GOTERM_BP_DIRECT,response to drug,3,9.7,7.50E-02,1.00E+00
+,,,,,
+KEGG_PATHWAY,Pathways in cancer,5,16.1,2.60E-02,1.00E+00
