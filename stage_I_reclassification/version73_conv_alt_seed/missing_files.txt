@@ -1,11 +1,12 @@
-missing files, from all clust73mval_seed* directories
+MISSING FILES from all clust73mval_seed* directories
 
 headless.csv --- 197.1MB --- 22 Nov 2022
-contains the manifest infomation for the illumnina 450k reading methylation data. Headless, meaning it is mising the first few lines of infomation AKA the head, which are details of the file
+contains the manifest information for the Illumina 450k reading methylation data. Headless, meaning it is missing the first few lines of information AKA the head, which are details of the file
 
 Additionally unique to each seed, representing the subset of probes for the optimized/final phase of the EM K-means algorithm are the following:
 beta_val_all.csv
-mval_all.csv, em_see.csv
+mval_all.csv
+em_see.csv
 mval_all_sum.csv
 na_best.csv
 nb_best.csv
