@@ -25,7 +25,7 @@ Phase 2, called the Estimation Maximization Inner Loop, involves copying the pro
 Phase 3, called Estimation Maximization Optimization, involves saving the list of probes that converged on the best results in Phase 2.5 and removing them from the pool of possible probes to use. The algorithm loops back to Phases 1 and 2, slightly reducing the number of probes used. This process is repeated for five iterations (Conv.A - Conv.E). Finally, the list of probes from the instances is initialized into the e0 step before being fed back into the algorithm in Phase 1, resulting in an optimized list of probes.
 
 
-![flowchar](https://github.com/gastonguaysiu/ML-AD-reclassification/blob/main/flowchart_EMAD.png?raw=true)
+![flowchar](https://github.com/gastonguaysiu/KIRP/blob/main/stage_I_reclassification/ML_flow_KIRP.png?raw=true)
 
 
 
