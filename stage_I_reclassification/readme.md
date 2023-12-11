@@ -6,9 +6,11 @@ Estimation Maximization (EM) is a general-purpose iterative algorithm used in ma
 
 **Folder table of contents**
 
-- the version73_conv_alt_seed folder contains contains four more subfolders, each containing a different trail. The clust73em_bval subfolder contains a trial attempted on the beta values rather than M-values for each sample. The other three sub-folders contain the same trials attempted using a different random number seed to evaluate the reproducibility of the data.
+- the version73_conv_alt_seed folder contains four more subfolders, each containing a different trail. The clust73em_bval subfolder contains a trial attempted on the beta values rather than M-values for each sample. The other three sub-folders contain the same trials attempted using a different random number seed to evaluate the reproducibility of the data.
 - The version74_opt folder contains data for phase 3 of the  clust73em_bval and clust73em_mval trails. I.E it contains the CpG subset results of the EM k-means algorithm
 - the version92 folder is the first step in processing the results from the methylation M-values for further analysis.
+
+MISSING FILES: The scripts will not run as they are due to the file size restrictions. Users who wish to use the scripts should download methylation data from https://gdc.cancer.gov/ or other repositories. And convert them to M values. Additionally, the 450k Illumina manifest file in csv format is required for some of the scripts to run. 
 
 **The differential methylation EM K-means workflow comprises the following steps.**
 
