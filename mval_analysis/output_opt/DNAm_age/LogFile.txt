@@ -1,0 +1,31 @@
+The methylation data set contains 321 samples (e.g. arrays) and  349874  probes.
+ Warnings were generated for the following samples.
+ X1ac89ea4.c567.4232.9412.a6f2189d7ab0.methylation_array.sesame.level3betas.txt 
+ Hint: Check the output file for more details. 
+ Warnings were generated for the following samples.
+ X26ba21d2.db13.4f1d.8117.7fa4a0720b87.methylation_array.sesame.level3betas.txt 
+ Hint: Check the output file for more details. 
+ Warnings were generated for the following samples.
+ X2a77ef27.02a7.420a.aa6c.c59e95151db4.methylation_array.sesame.level3betas.txt 
+ Hint: Check the output file for more details. 
+ Warnings were generated for the following samples.
+ X5d84b79b.8316.4b78.987a.526d71596123.methylation_array.sesame.level3betas.txt 
+ Hint: Check the output file for more details. 
+ Warnings were generated for the following samples.
+ X7fb3a4dd.f934.4deb.8b4e.1cd41ff1d805.methylation_array.sesame.level3betas.txt 
+ Hint: Check the output file for more details. 
+ Warnings were generated for the following samples.
+ X878cc517.5bd4.46ac.9c0f.33fd6215d163.methylation_array.sesame.level3betas.txt 
+ Hint: Check the output file for more details. 
+ Warnings were generated for the following samples.
+ X88e91943.5871.4251.aae2.4ae085082e48.methylation_array.sesame.level3betas.txt 
+ Hint: Check the output file for more details. 
+ Warnings were generated for the following samples.
+ X91eae496.099e.4a5c.9a9f.c2b148657cff.methylation_array.sesame.level3betas.txt 
+ Hint: Check the output file for more details. 
+ Warnings were generated for the following samples.
+ bf85e9f6.bf73.4203.94c4.e172c6030ecf.methylation_array.sesame.level3betas.txt 
+ Hint: Check the output file for more details. 
+ Warnings were generated for the following samples.
+ e4714a92.dfc5.493a.ab2f.1d4a3361c62e.methylation_array.sesame.level3betas.txt 
+ Hint: Check the output file for more details.
