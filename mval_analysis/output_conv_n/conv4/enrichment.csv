@@ -1,0 +1,6 @@
+Category,Term,Count,%,P-Value,Benjamini
+GOTERM_BP_DIRECT,neurotransmitter secretion,2,9.5,2.50E-02,1.00E+00
+GOTERM_BP_DIRECT,positive regulation of protein tyrosine kinase activity,2,9.5,4.00E-02,1.00E+00
+GOTERM_BP_DIRECT,exocytosis,2,9.5,9.60E-02,1.00E+00
+GOTERM_CC_DIRECT,integral component of membrane,9,42.9,9.80E-02,1.00E+00
+KEGG_PATHWAY,Lysosome,2,9.5,9.30E-02,1.00E+00

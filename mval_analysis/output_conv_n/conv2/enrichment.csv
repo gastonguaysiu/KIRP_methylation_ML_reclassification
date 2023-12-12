@@ -1,0 +1,51 @@
+Category,Term,Count,%,P-Value,Benjamini
+GOTERM_BP_DIRECT,axonogenesis,5,4.2,1.70E-03,9.90E-01
+GOTERM_BP_DIRECT,transcytosis,3,2.5,2.40E-03,9.90E-01
+GOTERM_BP_DIRECT,inner ear morphogenesis,4,3.4,3.90E-03,1.00E+00
+GOTERM_BP_DIRECT,positive regulation of transcription from RNA polymerase II promoter,15,12.7,8.00E-03,1.00E+00
+GOTERM_BP_DIRECT,hippocampus development,4,3.4,8.10E-03,1.00E+00
+GOTERM_BP_DIRECT,anterior/posterior pattern specification,4,3.4,1.70E-02,1.00E+00
+GOTERM_BP_DIRECT,Wnt signaling pathway,5,4.2,2.50E-02,1.00E+00
+GOTERM_BP_DIRECT,male sex differentiation,2,1.7,2.80E-02,1.00E+00
+GOTERM_BP_DIRECT,negative regulation of metallopeptidase activity,2,1.7,2.80E-02,1.00E+00
+GOTERM_BP_DIRECT,cellular response to beta-amyloid,3,2.5,2.90E-02,1.00E+00
+GOTERM_BP_DIRECT,multicellular organism development,5,4.2,3.40E-02,1.00E+00
+GOTERM_BP_DIRECT,gland morphogenesis,2,1.7,3.90E-02,1.00E+00
+GOTERM_BP_DIRECT,cell fate commitment,3,2.5,4.10E-02,1.00E+00
+GOTERM_BP_DIRECT,drinking behavior,2,1.7,5.00E-02,1.00E+00
+GOTERM_BP_DIRECT,central nervous system development,4,3.4,5.30E-02,1.00E+00
+GOTERM_BP_DIRECT,response to L-glutamate,2,1.7,5.50E-02,1.00E+00
+GOTERM_BP_DIRECT,positive regulation of adenylate cyclase activity,2,1.7,5.50E-02,1.00E+00
+GOTERM_BP_DIRECT,regulation of gene expression,5,4.2,5.60E-02,1.00E+00
+GOTERM_BP_DIRECT,limb bud formation,2,1.7,6.00E-02,1.00E+00
+GOTERM_BP_DIRECT,positive regulation of MAPK cascade,4,3.4,6.20E-02,1.00E+00
+GOTERM_BP_DIRECT,mesodermal cell differentiation,2,1.7,6.60E-02,1.00E+00
+GOTERM_BP_DIRECT,extracellular matrix organization,4,3.4,6.70E-02,1.00E+00
+GOTERM_BP_DIRECT,brain development,5,4.2,6.90E-02,1.00E+00
+GOTERM_BP_DIRECT,beta-amyloid clearance,2,1.7,7.10E-02,1.00E+00
+GOTERM_BP_DIRECT,negative regulation of vascular endothelial growth factor receptor signaling pathway,2,1.7,8.10E-02,1.00E+00
+GOTERM_BP_DIRECT,cellular response to glucose stimulus,3,2.5,8.50E-02,1.00E+00
+GOTERM_BP_DIRECT,dentate gyrus development,2,1.7,9.20E-02,1.00E+00
+GOTERM_BP_DIRECT,regulation of epithelial cell proliferation,2,1.7,9.70E-02,1.00E+00
+GOTERM_CC_DIRECT,extracellular matrix,6,5.1,1.40E-02,1.00E+00
+GOTERM_CC_DIRECT,plasma membrane raft,3,2.5,1.50E-02,1.00E+00
+GOTERM_CC_DIRECT,trans-Golgi network,5,4.2,2.10E-02,1.00E+00
+GOTERM_CC_DIRECT,anchored component of membrane,4,3.4,2.30E-02,1.00E+00
+GOTERM_CC_DIRECT,receptor complex,5,4.2,3.20E-02,1.00E+00
+GOTERM_CC_DIRECT,neuronal cell body,6,5.1,7.40E-02,1.00E+00
+GOTERM_CC_DIRECT,nucleus,41,34.7,8.00E-02,1.00E+00
+GOTERM_CC_DIRECT,integral component of plasma membrane,13,11,8.70E-02,1.00E+00
+GOTERM_CC_DIRECT,Golgi cisterna membrane,3,2.5,9.50E-02,1.00E+00
+GOTERM_MF_DIRECT,protein phosphatase 2A binding,3,2.5,1.70E-02,1.00E+00
+GOTERM_MF_DIRECT,RNA polymerase II core promoter proximal region sequence-specific DNA binding,13,11,4.50E-02,1.00E+00
+GOTERM_MF_DIRECT,metal ion binding,23,19.5,5.20E-02,1.00E+00
+GOTERM_MF_DIRECT,"transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific binding",7,5.9,5.80E-02,1.00E+00
+GOTERM_MF_DIRECT,phosphatidylinositol 3-kinase regulatory subunit binding,2,1.7,6.20E-02,1.00E+00
+GOTERM_MF_DIRECT,insulin-like growth factor I binding,2,1.7,7.20E-02,1.00E+00
+GOTERM_MF_DIRECT,heparin binding,4,3.4,8.20E-02,1.00E+00
+KEGG_PATHWAY,Progesterone-mediated oocyte maturation,5,4.2,3.30E-03,6.20E-01
+KEGG_PATHWAY,Estrogen signaling pathway,4,3.4,5.10E-02,1.00E+00
+KEGG_PATHWAY,Longevity regulating pathway - multiple species,3,2.5,5.50E-02,1.00E+00
+KEGG_PATHWAY,Signaling pathways regulating pluripotency of stem cells,4,3.4,5.60E-02,1.00E+00
+KEGG_PATHWAY,Cell adhesion molecules,4,3.4,7.00E-02,1.00E+00
+KEGG_PATHWAY,EGFR tyrosine kinase inhibitor resistance,3,2.5,8.30E-02,1.00E+00

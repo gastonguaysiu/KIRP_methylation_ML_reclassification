@@ -1,0 +1,312 @@
+"","File_Name","Case_ID","Sample_ID","lc_from_IPDD","Days.to.death","Vital.Status","File_ID","Sample_Type","cluster"
+"9","08c110cd-a60a-4577-91ce-e51fa0638217.methylation_array.sesame.level3betas.txt","TCGA-F9-A4JJ","TCGA-F9-A4JJ-01A",97,"325","Dead","b34ab23f-cd48-4bbf-8dd6-ee3bfe842576","Primary Tumor",1
+"24","12a45cc5-8206-46fa-a285-567635c5ea92.methylation_array.sesame.level3betas.txt","TCGA-5P-A9K3","TCGA-5P-A9K3-01A",NA,"471","Dead","89893f33-0a15-4373-baaa-c6b4e1d06b94","Primary Tumor",1
+"32","1ab4123f-1270-4d77-a783-179914e51be8.methylation_array.sesame.level3betas.txt","TCGA-J7-8537","TCGA-J7-8537-01A",4,"321","Dead","f593f75e-5220-4c11-95e2-6814e660ff1a","Primary Tumor",1
+"33","1ac89ea4-c567-4232-9412-a6f2189d7ab0.methylation_array.sesame.level3betas.txt","TCGA-GL-7966","TCGA-GL-7966-01A",112,"--","Alive","e5031e04-774a-4113-9ba6-388a8b894265","Primary Tumor",1
+"52","26ba21d2-db13-4f1d-8117-7fa4a0720b87.methylation_array.sesame.level3betas.txt","TCGA-G7-6793","TCGA-G7-6793-01A",NA,"336","Dead","7bb2fd09-573e-4a82-8f52-37ff75868d37","Primary Tumor",1
+"56","284cbe5f-594f-41ac-ada8-f772133d5f92.methylation_array.sesame.level3betas.txt","TCGA-BQ-5882","TCGA-BQ-5882-01A",NA,"658","Dead","bddb3feb-1ed6-4517-8634-89e417c8c61e","Primary Tumor",1
+"61","2ba0170d-7be1-40f7-99c6-52152fe5e705.methylation_array.sesame.level3betas.txt","TCGA-G7-6789","TCGA-G7-6789-01A",NA,"122","Dead","e69a500c-e62e-4f9d-9bf2-01141228bd31","Primary Tumor",1
+"87","3a6ebd73-7e4a-4a51-9509-36241ebd7d1d.methylation_array.sesame.level3betas.txt","TCGA-A4-7287","TCGA-A4-7287-01A",234,"597","Dead","4b02ccab-3512-4b4f-9197-9bba5557d5a1","Primary Tumor",1
+"92","3ba202ba-ec73-4bec-bf31-686175caa408.methylation_array.sesame.level3betas.txt","TCGA-P4-A5E8","TCGA-P4-A5E8-01A",NA,"1306","Dead","dc41f994-c6f4-4d3d-8a4a-eb9da221191d","Primary Tumor",1
+"130","5d84b79b-8316-4b78-987a-526d71596123.methylation_array.sesame.level3betas.txt","TCGA-BQ-5879","TCGA-BQ-5879-01A",NA,"697","Dead","c7db2177-34d3-4baf-ac3d-b09ed6935189","Primary Tumor",1
+"136","61bb4d9f-07d5-4de1-a778-220b24b6e341.methylation_array.sesame.level3betas.txt","TCGA-UZ-A9PS","TCGA-UZ-A9PS-01A",2167,"--","Alive","938c8631-db01-408d-bac7-7a911470cf95","Additional - New Primary",1
+"162","7fb3a4dd-f934-4deb-8b4e-1cd41ff1d805.methylation_array.sesame.level3betas.txt","TCGA-F9-A8NY","TCGA-F9-A8NY-01A",36,"--","Alive","516394be-e914-4e1c-bd90-669e929ee535","Primary Tumor",1
+"168","878cc517-5bd4-46ac-9c0f-33fd6215d163.methylation_array.sesame.level3betas.txt","TCGA-G7-A8LD","TCGA-G7-A8LD-01A",NA,"514","Dead","7f5d1813-7518-4673-852f-4220f0ee85e7","Primary Tumor",1
+"169","88e91943-5871-4251-aae2-4ae085082e48.methylation_array.sesame.level3betas.txt","TCGA-5P-A9K9","TCGA-5P-A9K9-01A",NA,"589","Dead","e1de711d-671d-441c-8040-c01003fa08fd","Primary Tumor",1
+"176","91eae496-099e-4a5c-9a9f-c2b148657cff.methylation_array.sesame.level3betas.txt","TCGA-BQ-5893","TCGA-BQ-5893-01A",NA,"241","Dead","034087af-d47c-4f14-afc0-5824137c2643","Primary Tumor",1
+"262","cf461e71-307e-4c3f-bfc0-902e69b59abe.methylation_array.sesame.level3betas.txt","TCGA-BQ-5877","TCGA-BQ-5877-01A",NA,"270","Dead","0832e911-7840-42d6-a61f-720e8f666a17","Primary Tumor",1
+"276","dfe69e4d-4a77-44cd-a7c2-0e83a3754b20.methylation_array.sesame.level3betas.txt","TCGA-BQ-5894","TCGA-BQ-5894-01A",84,"--","Alive","b6cd7df4-fdd2-4ec8-8b5f-cbbc5fb5754c","Primary Tumor",1
+"283","e737dfee-cac5-4b91-8fa0-d2d3872187fc.methylation_array.sesame.level3betas.txt","TCGA-A4-7915","TCGA-A4-7915-01A",7,"--","Alive","51adddd4-67c4-40de-8ddc-0f11fa0092dc","Primary Tumor",1
+"292","eef0b8b7-0ac5-4b79-b3e4-bcb1fefe6dbb.methylation_array.sesame.level3betas.txt","TCGA-P4-A5EA","TCGA-P4-A5EA-01A",NA,"201","Dead","664662d8-37f0-4369-83f3-6f1cef944ab0","Primary Tumor",1
+"1","00f3408c-5ad1-4afb-9eac-3392aa92e42c.methylation_array.sesame.level3betas.txt","TCGA-O9-A75Z","TCGA-O9-A75Z-01A",471,"--","Alive","adb65411-75c9-47a4-a4ba-27f94868a257","Primary Tumor",2
+"2","0317b249-9256-47fe-9533-3ca91c07e3fd.methylation_array.sesame.level3betas.txt","TCGA-Y8-A8S1","TCGA-Y8-A8S1-01A",404,"--","Alive","9f99646d-2036-46ca-b342-9905ac8f4135","Primary Tumor",2
+"3","039f8688-b4cd-4931-a8f5-40bcb1fbd8f0.methylation_array.sesame.level3betas.txt","TCGA-BQ-7058","TCGA-BQ-7058-01A",NA,"343","Dead","9bea7c14-71a3-42d9-825e-309be2f5a622","Solid Tissue Normal",2
+"4","051e12d9-1003-4411-9d1a-2ffcc2204e57.methylation_array.sesame.level3betas.txt","TCGA-5P-A9K0","TCGA-5P-A9K0-01A",677,"--","Alive","02c6a034-15a3-471f-aacd-ad4651bd3e33","Primary Tumor",2
+"5","06ba7c55-0364-4c49-9d7a-0b05f2f2cc01.methylation_array.sesame.level3betas.txt","TCGA-BQ-7060","TCGA-BQ-7060-01A",214,"--","Alive","b078e603-3fbf-40c8-8512-ba67453911ce","Primary Tumor",2
+"8","088aed59-bc7b-4ab6-9bed-2e3d83a84051.methylation_array.sesame.level3betas.txt","TCGA-B9-A8YH","TCGA-B9-A8YH-01A",532,"--","Alive","3baad9e7-bbfd-4f64-a09a-604ed0a5821d","Primary Tumor",2
+"10","0b221cf8-b2a5-426a-adf3-47672e4121f0.methylation_array.sesame.level3betas.txt","TCGA-BQ-5885","TCGA-BQ-5885-01A",921,"--","Alive","ded26d5a-98c0-4e7c-a62e-3a144b46210f","Primary Tumor",2
+"11","0b5c2c12-71fb-44f2-b0b4-9f115ced1b73.methylation_array.sesame.level3betas.txt","TCGA-2Z-A9JE","TCGA-2Z-A9JE-01A",1728,"--","Alive","862b3360-4ded-4ce5-8fe5-4c444e37a077","Primary Tumor",2
+"12","0bf89361-3f5e-458c-9cb4-22f2f7f3f1a0.methylation_array.sesame.level3betas.txt","TCGA-A4-A57E","TCGA-A4-A57E-01A",0,"258","Dead","37e999fc-46e7-4cb3-a3bc-e490c0a3f67e","Primary Tumor",2
+"14","0c98e86a-d772-410a-be7d-3c99254c343c.methylation_array.sesame.level3betas.txt","TCGA-GL-A4EM","TCGA-GL-A4EM-01A",32,"--","Alive","72771cea-a7c5-4567-b9fc-19d606b8b630","Primary Tumor",2
+"15","0c9d0b4d-dcbd-4fdc-9da6-cab3d0871204.methylation_array.sesame.level3betas.txt","TCGA-2Z-A9JQ","TCGA-2Z-A9JQ-01A",778,"--","Alive","65ceb89a-7748-47a7-bced-45492a234734","Primary Tumor",2
+"16","0e1add7b-7fef-4a44-8c25-8e2d7067ce93.methylation_array.sesame.level3betas.txt","TCGA-GL-6846","TCGA-GL-6846-01A",5925,"--","Alive","783060d8-2850-4d8f-bfdf-31308ce95cbc","Primary Tumor",2
+"17","0e49aa93-ff5b-47dc-b6b9-8a02e79eb648.methylation_array.sesame.level3betas.txt","TCGA-IA-A83V","TCGA-IA-A83V-01A",NA,"2939","Dead","5c07452c-20e1-4f33-b4e4-33eb3973da69","Primary Tumor",2
+"18","0f65b82d-2424-41e7-b211-73205cbfe6c2.methylation_array.sesame.level3betas.txt","TCGA-SX-A7SN","TCGA-SX-A7SN-01A",578,"--","Alive","406eaad2-dbff-4112-aaa0-3ba8cb437df6","Primary Tumor",2
+"19","0fa67178-4118-4e7b-ae75-7e2440c823ce.methylation_array.sesame.level3betas.txt","TCGA-IA-A40U","TCGA-IA-A40U-01A",511,"--","Alive","cbaf6da1-80f3-4b90-a052-3eb6d96f7bb9","Primary Tumor",2
+"20","0fc7c835-bb3e-4d5c-b339-08708d21177c.methylation_array.sesame.level3betas.txt","TCGA-UZ-A9PX","TCGA-UZ-A9PX-01A",1981,"--","Alive","758a20bf-155f-41f2-9aa1-28c8009fd589","Primary Tumor",2
+"21","0fdbf223-77f4-4d66-81de-b50469aba8ef.methylation_array.sesame.level3betas.txt","TCGA-HE-A5NF","TCGA-HE-A5NF-01A",2582,"--","Alive","58321311-f8a4-4a86-916f-b36a19896da7","Primary Tumor",2
+"22","1110da77-cc1a-49fd-82c3-198d9a56608a.methylation_array.sesame.level3betas.txt","TCGA-A4-8098","TCGA-A4-8098-01A",896,"--","Alive","889172d6-6fef-4b9f-8e7a-4fb8ff4cd919","Primary Tumor",2
+"23","11cabdbf-21be-4d3f-99c4-5f5be16b87de.methylation_array.sesame.level3betas.txt","TCGA-A4-7584","TCGA-A4-7584-01A",650,"--","Alive","b4cca521-6f10-413d-99ab-5c2cdc78d11b","Primary Tumor",2
+"25","13728a07-2aa1-4a23-8a1d-af942a067592.methylation_array.sesame.level3betas.txt","TCGA-SX-A7SM","TCGA-SX-A7SM-01A",NA,"363","Dead","02ffd5a2-5f3d-422b-97c9-ac014abe4981","Primary Tumor",2
+"27","156121a4-d2d6-44c8-95ce-d5a20f23bba3.methylation_array.sesame.level3betas.txt","TCGA-GL-A59T","TCGA-GL-A59T-01A",546,"--","Alive","fd18f253-4fbf-4ec5-a582-6c9f6f53ce9a","Primary Tumor",2
+"28","15b2c0f4-8fea-4ec6-bc3a-3cc90ba8987d.methylation_array.sesame.level3betas.txt","TCGA-UZ-A9PK","TCGA-UZ-A9PK-01A",3571,"--","Alive","80733cfb-b20b-4d60-8574-75dca01552a1","Primary Tumor",2
+"31","18fd65eb-c745-4280-b7e1-5d599c18caa2.methylation_array.sesame.level3betas.txt","TCGA-B9-A69E","TCGA-B9-A69E-01A",452,"--","Alive","c13cfe3f-6acd-4d3a-a23c-21157046d1c1","Primary Tumor",2
+"34","1ae3fcea-5061-4112-a3a7-495795b46c70.methylation_array.sesame.level3betas.txt","TCGA-B1-A47M","TCGA-B1-A47M-01A",659,"--","Alive","9e6e71c3-68cd-4792-a544-2369814c555d","Primary Tumor",2
+"35","1afea086-58d1-4232-aa3f-a2aebca7b134.methylation_array.sesame.level3betas.txt","TCGA-BQ-7046","TCGA-BQ-7046-01A",2948,"--","Alive","6432b376-4949-45ce-ad26-6969e36f3e1c","Primary Tumor",2
+"36","1b01c748-b4ca-4232-b49f-b57f15ec8db4.methylation_array.sesame.level3betas.txt","TCGA-B1-A657","TCGA-B1-A657-01A",641,"--","Alive","2823d5b1-baa3-401c-b446-eb0d0b61c1c2","Primary Tumor",2
+"37","1b694955-1d87-41b2-8bf4-02fadbd68931.methylation_array.sesame.level3betas.txt","TCGA-HE-A5NJ","TCGA-HE-A5NJ-01A",1726,"--","Alive","3e271a72-c8e2-49d0-937d-24a461bb0191","Primary Tumor",2
+"38","1c1f31d4-28fb-4cf7-84de-ad02c2e6d0dd.methylation_array.sesame.level3betas.txt","TCGA-BQ-7046","TCGA-BQ-7046-01A",2948,"--","Alive","78f5e708-4cbf-4950-a7c8-7e3c9cbf8f44","Solid Tissue Normal",2
+"39","1cd49334-65ec-4b1d-b5a0-81accb155bdd.methylation_array.sesame.level3betas.txt","TCGA-SX-A7SQ","TCGA-SX-A7SQ-01A",1266,"--","Alive","399084ee-0506-47f1-b8ea-989592fb9dd8","Primary Tumor",2
+"40","1d353058-4b3e-4960-a5af-5d746c50cf12.methylation_array.sesame.level3betas.txt","TCGA-2Z-A9JK","TCGA-2Z-A9JK-01A",1186,"--","Alive","b80329d2-9329-4e60-bdc2-e97ed8aa5e07","Primary Tumor",2
+"41","1d48995e-cb57-43ce-a354-a3c9b445a4e5.methylation_array.sesame.level3betas.txt","TCGA-G7-6796","TCGA-G7-6796-01A",2173,"--","Alive","ed2b38c0-6cd7-43ba-b7c2-76f3cec138fe","Primary Tumor",2
+"42","1d866633-877a-4108-9432-70db50156b31.methylation_array.sesame.level3betas.txt","TCGA-A4-8518","TCGA-A4-8518-01A",600,"--","Alive","838e094b-46ab-480f-bd63-1a7af1f9afae","Primary Tumor",2
+"43","1eb1db19-f29c-45c4-8e36-32f245dfafb3.methylation_array.sesame.level3betas.txt","TCGA-DW-7841","TCGA-DW-7841-01A",445,"--","Alive","6e0ba9ac-cbc9-4885-a128-5511dbeb32e9","Primary Tumor",2
+"44","1f034232-8917-462b-bd0c-d137e50d6d42.methylation_array.sesame.level3betas.txt","TCGA-B9-A44B","TCGA-B9-A44B-01A",361,"--","Alive","aa1b26bc-02e8-43e8-9d31-0e512c3346db","Primary Tumor",2
+"45","20334000-2b58-4120-bb31-484038102926.methylation_array.sesame.level3betas.txt","TCGA-5P-A9JU","TCGA-5P-A9JU-01A",373,"--","Alive","414352a9-075e-4130-842b-cee68e3eb6a6","Primary Tumor",2
+"46","20e47c71-d69b-428c-9251-5ae694a34b9e.methylation_array.sesame.level3betas.txt","TCGA-P4-AAVM","TCGA-P4-AAVM-01A",1539,"--","Alive","58db3fbf-ec14-4c1c-82a1-ad3baa7bfabd","Primary Tumor",2
+"47","2128c5a6-3f5c-42d4-8977-c0136c19ee35.methylation_array.sesame.level3betas.txt","TCGA-BQ-7044","TCGA-BQ-7044-01A",3760,"--","Alive","34b5362d-7406-4225-adca-966bc8620265","Primary Tumor",2
+"48","2199a802-387a-4b7c-b7c0-1825759f0e3d.methylation_array.sesame.level3betas.txt","TCGA-B3-A6W5","TCGA-B3-A6W5-01A",309,"--","Alive","fb70532d-5c55-4aff-bae3-29381f75527f","Primary Tumor",2
+"50","23fa6908-e91c-4ebe-baea-3a91b5642800.methylation_array.sesame.level3betas.txt","TCGA-2Z-A9J7","TCGA-2Z-A9J7-01A",NA,"139","Dead","af834fcc-d2e2-4a52-be22-82c90f6ef5f6","Primary Tumor",2
+"51","240e647d-8564-4864-8f12-fd9de024c8f8.methylation_array.sesame.level3betas.txt","TCGA-2Z-A9JP","TCGA-2Z-A9JP-01A",893,"--","Alive","8fa10312-24b1-4ef2-a182-5626878c0e46","Primary Tumor",2
+"53","270bbf28-0f1f-460f-8a8f-3eca50f9fc2d.methylation_array.sesame.level3betas.txt","TCGA-P4-A5EB","TCGA-P4-A5EB-01A",3015,"--","Alive","13686cd6-e156-449a-ab59-c04863cc778a","Primary Tumor",2
+"54","271c54c5-ff92-4546-9d3c-9465fe726eb3.methylation_array.sesame.level3betas.txt","TCGA-MH-A856","TCGA-MH-A856-01A",947,"--","Alive","04bb6dd2-e475-4998-98bc-435b6a99f8d5","Primary Tumor",2
+"55","2844b3f4-974b-496f-bb16-62cb9dfbad98.methylation_array.sesame.level3betas.txt","TCGA-B9-7268","TCGA-B9-7268-01A",671,"--","Alive","0642ade7-47e5-40b6-9acf-f12525097654","Primary Tumor",2
+"58","2a77ef27-02a7-420a-aa6c-c59e95151db4.methylation_array.sesame.level3betas.txt","TCGA-J7-A8I2","TCGA-J7-A8I2-01A",307,"--","Alive","db88d70e-7f0f-430e-b716-a0c9e7fa80ad","Primary Tumor",2
+"59","2a8e4a8a-3a24-4017-bcbc-8ab5ae60ec53.methylation_array.sesame.level3betas.txt","TCGA-DZ-6135","TCGA-DZ-6135-01A",2269,"--","Alive","33f67651-1ffb-4354-a172-89caf369bf60","Solid Tissue Normal",2
+"60","2b81712a-4697-446c-aca5-c5e4dd6f0cf4.methylation_array.sesame.level3betas.txt","TCGA-GL-A59R","TCGA-GL-A59R-01A",378,"--","Alive","72fd8b2b-4785-406c-985f-100eb3120c8c","Primary Tumor",2
+"69","30117e27-e1e5-4f99-a1f1-b329f7b32f28.methylation_array.sesame.level3betas.txt","TCGA-DW-7837","TCGA-DW-7837-01A",1142,"--","Alive","fd314a4d-bf31-431a-b878-f0fe121663b3","Primary Tumor",2
+"72","32d42d6f-2a7f-48fe-a9c1-9d9a6c1133c1.methylation_array.sesame.level3betas.txt","TCGA-A4-7585","TCGA-A4-7585-01A",NA,"1070","Dead","0d797c22-50b9-466f-8934-1b2f83cbfbd0","Solid Tissue Normal",2
+"73","33604b46-d01b-4d2b-bc27-d1cce2dae8b0.methylation_array.sesame.level3betas.txt","TCGA-G7-6797","TCGA-G7-6797-01A",765,"--","Alive","e389c661-c96f-4cb4-b477-fb6b10371c66","Primary Tumor",2
+"75","3573adb4-a88e-45cd-a706-1dae94fdc77c.methylation_array.sesame.level3betas.txt","TCGA-DZ-6134","TCGA-DZ-6134-01A",1856,"--","Alive","6be7303c-e566-48da-a249-cbe79491bb6f","Primary Tumor",2
+"76","35801dae-4e7b-4235-9dcd-295e3c1e8e29.methylation_array.sesame.level3betas.txt","TCGA-DZ-6131","TCGA-DZ-6131-01A",2429,"--","Alive","97327eed-c491-4347-8715-079cdecb9ba9","Solid Tissue Normal",2
+"77","37491df8-1595-41bc-80da-85baf92b7fd3.methylation_array.sesame.level3betas.txt","TCGA-A4-8311","TCGA-A4-8311-01A",729,"--","Alive","361f0569-687b-46c6-b4a5-6c79231c00c1","Primary Tumor",2
+"78","375e39e1-02c1-4117-b01e-74e38d1dc376.methylation_array.sesame.level3betas.txt","TCGA-IZ-A6M8","TCGA-IZ-A6M8-01A",497,"--","Alive","2c34d05f-d6b1-4755-8f7b-f89362ca6bcc","Primary Tumor",2
+"79","37ae1055-91aa-4fbe-98ca-17312446bb2b.methylation_array.sesame.level3betas.txt","TCGA-2Z-A9JD","TCGA-2Z-A9JD-01A",1060,"--","Alive","cbfe1e70-0cf7-48b4-a247-3e98d4c463ce","Primary Tumor",2
+"80","3808b1e7-62f7-4173-917f-4d8ce6e3cc40.methylation_array.sesame.level3betas.txt","TCGA-KV-A6GE","TCGA-KV-A6GE-01A",885,"--","Alive","a6af1260-3360-49a1-ade8-f19bdbd16f71","Primary Tumor",2
+"81","380b4cb4-bfbd-4af3-b87b-5b349d6a69ea.methylation_array.sesame.level3betas.txt","TCGA-DW-7840","TCGA-DW-7840-01A",114,"--","Alive","15057fad-e974-444b-9c98-bfdf2098e1fe","Primary Tumor",2
+"83","3879b237-8cb6-4041-b661-d0468f1095d0.methylation_array.sesame.level3betas.txt","TCGA-BQ-7058","TCGA-BQ-7058-01A",NA,"343","Dead","b005b6d8-42c8-48e5-be20-2b0220253b50","Primary Tumor",2
+"85","39120f42-f787-4b3b-a933-ff65bfd4e845.methylation_array.sesame.level3betas.txt","TCGA-2Z-A9JS","TCGA-2Z-A9JS-01A",NA,"492","Dead","9db902f2-6ef6-49ff-bbec-2a4c2a0708f0","Primary Tumor",2
+"86","39fa10f4-f54c-4090-81cc-86727eb741bc.methylation_array.sesame.level3betas.txt","TCGA-BQ-7045","TCGA-BQ-7045-01A",NA,"1467","Dead","878105e5-16ee-48aa-81c6-6924d642c789","Solid Tissue Normal",2
+"88","3aaf445e-676e-46f3-86d1-e1615d33b77d.methylation_array.sesame.level3betas.txt","TCGA-BQ-5881","TCGA-BQ-5881-01A",1454,"--","Alive","796ae2e2-80c9-4fc9-9206-45e657575921","Solid Tissue Normal",2
+"89","3b0888ce-30f9-4404-b546-978b8d933c60.methylation_array.sesame.level3betas.txt","TCGA-B9-A5W9","TCGA-B9-A5W9-01A",5,"--","Alive","27b0a74b-f951-43cd-9f49-a28b821681d1","Primary Tumor",2
+"93","3be44b2f-9ec1-4e12-8b10-816b7698af13.methylation_array.sesame.level3betas.txt","TCGA-A4-A5Y1","TCGA-A4-A5Y1-01A",87,"395","Dead","3aa30437-4435-46fc-a995-626558027451","Primary Tumor",2
+"94","3c8956f1-9579-47f8-97bc-201c53adea3f.methylation_array.sesame.level3betas.txt","TCGA-UZ-A9PP","TCGA-UZ-A9PP-01A",3010,"--","Alive","406940a9-290c-49a9-b433-7fd91c619946","Primary Tumor",2
+"95","3d029bf5-c4ec-482c-b678-90794df26e76.methylation_array.sesame.level3betas.txt","TCGA-2Z-A9J3","TCGA-2Z-A9J3-01A",NA,"1770","Dead","76142e90-f98e-4fdd-a1cb-bf0158fb0f53","Primary Tumor",2
+"96","3d03230e-8534-4d54-831b-c9f3cc3f518f.methylation_array.sesame.level3betas.txt","TCGA-BQ-5890","TCGA-BQ-5890-01A",233,"--","Alive","aa0f9256-f1cc-4e12-b984-c8d2e842f626","Solid Tissue Normal",2
+"98","3ee5eddc-7e16-458d-a662-319f23a6bcb6.methylation_array.sesame.level3betas.txt","TCGA-B9-A5W7","TCGA-B9-A5W7-01A",585,"--","Alive","4f09c165-0b2f-47bc-8e5b-2ffd4e9b194f","Primary Tumor",2
+"99","3fc4637f-d95e-4477-8931-25e07d8c901b.methylation_array.sesame.level3betas.txt","TCGA-Y8-A8RZ","TCGA-Y8-A8RZ-01A",112,"--","Alive","f4f15b71-ca1d-4eed-973b-72245b13856b","Primary Tumor",2
+"100","3ffbc957-855e-409c-9d9b-7b81ebc0b2bc.methylation_array.sesame.level3betas.txt","TCGA-BQ-5889","TCGA-BQ-5889-01A",NA,"329","Dead","d2883862-b50a-4e24-b7b8-80812f87d2d9","Primary Tumor",2
+"101","4079cb4f-4095-4212-8bac-53bcfc79b931.methylation_array.sesame.level3betas.txt","TCGA-WN-A9G9","TCGA-WN-A9G9-01A",791,"--","Alive","6fdc0451-ce23-4871-8b54-64991e73e00c","Primary Tumor",2
+"102","408ef911-ab08-4574-b034-6a8daeff5323.methylation_array.sesame.level3betas.txt","TCGA-GL-8500","TCGA-GL-8500-01A",841,"--","Alive","ac6a9433-e481-40d1-a62d-e99c10eebc56","Primary Tumor",2
+"103","41010002-9bc4-4cee-8b8f-e2ad915342d3.methylation_array.sesame.level3betas.txt","TCGA-B9-5155","TCGA-B9-5155-01A",665,"--","Alive","d4dd95e6-daad-443c-8a24-c45fd0e04465","Primary Tumor",2
+"104","414226b9-0564-42d1-97e4-f4d29a6ac708.methylation_array.sesame.level3betas.txt","TCGA-V9-A7HT","TCGA-V9-A7HT-01A",965,"--","Alive","9e933e00-a9aa-4370-a45e-b31d05855801","Primary Tumor",2
+"106","428545ce-30d0-4f62-bc27-01a72e7b4ef6.methylation_array.sesame.level3betas.txt","TCGA-BQ-7055","TCGA-BQ-7055-01A",799,"--","Alive","ef05b8c8-bff1-47af-8871-567898101784","Primary Tumor",2
+"107","447ef862-535e-48b5-893d-588203a49eac.methylation_array.sesame.level3betas.txt","TCGA-UZ-A9PM","TCGA-UZ-A9PM-01A",3811,"--","Alive","dbc31cd7-648f-4a29-a9b5-63186bb3f178","Primary Tumor",2
+"108","452f7497-9853-4cac-839e-02b265ad5d62.methylation_array.sesame.level3betas.txt","TCGA-MH-A562","TCGA-MH-A562-01A",616,"--","Alive","0980cd86-b66c-4159-b76f-99a76462ef1b","Primary Tumor",2
+"109","454708e0-f472-430d-9722-cf7dc8333ab4.methylation_array.sesame.level3betas.txt","TCGA-DW-7834","TCGA-DW-7834-01A",3950,"--","Alive","d0f5a2be-16ee-4f48-ad70-13d77be01306","Primary Tumor",2
+"111","4886586f-fd25-44f9-b2e1-bcb5b9cfe1bb.methylation_array.sesame.level3betas.txt","TCGA-BQ-5887","TCGA-BQ-5887-01A",771,"--","Alive","7ad4e85a-a048-4597-8a7b-98b2d3df7416","Solid Tissue Normal",2
+"113","4cd17f60-6b4a-415d-ba8b-73af5196e54e.methylation_array.sesame.level3betas.txt","TCGA-BQ-5885","TCGA-BQ-5885-01A",921,"--","Alive","bb2b3371-95e8-40ca-9668-9f242338e1a1","Solid Tissue Normal",2
+"114","4da45841-a661-4df6-9adb-9fedf16ca1ea.methylation_array.sesame.level3betas.txt","TCGA-DW-7836","TCGA-DW-7836-01A",1093,"--","Alive","119f1422-b48d-4e3f-9e1a-238f045ae9e8","Primary Tumor",2
+"115","50507b39-b124-40ff-84ed-1dababbf1833.methylation_array.sesame.level3betas.txt","TCGA-SX-A7SR","TCGA-SX-A7SR-01A",805,"--","Alive","858e8db5-e67e-411f-8791-cfca6ebc4450","Primary Tumor",2
+"116","52acfa16-231c-4981-91e2-ebcfccc29e8b.methylation_array.sesame.level3betas.txt","TCGA-5P-A9JW","TCGA-5P-A9JW-01A",3241,"--","Alive","5f1a8a46-6455-4b3a-91c4-6ddf6f6e3283","Primary Tumor",2
+"117","52f6f34b-6d3e-491f-9c83-a28876ed8523.methylation_array.sesame.level3betas.txt","TCGA-DZ-6132","TCGA-DZ-6132-01A",2460,"--","Alive","7365377b-c41b-439a-bada-61368bdb6f8c","Primary Tumor",2
+"118","545db1ed-6a76-4643-b55a-f28dfd9789b4.methylation_array.sesame.level3betas.txt","TCGA-B9-A5W8","TCGA-B9-A5W8-01A",524,"--","Alive","a31aefd1-4bfa-4016-a254-25dd2e013ddf","Primary Tumor",2
+"121","562c099e-cecf-40a0-a553-f53076098cbc.methylation_array.sesame.level3betas.txt","TCGA-2Z-A9JI","TCGA-2Z-A9JI-01A",1567,"--","Alive","45627502-2555-4f7f-a48b-eeea65af64c7","Primary Tumor",2
+"122","569e30a7-62ee-4a71-a4c1-d25ef7f3a9e0.methylation_array.sesame.level3betas.txt","TCGA-B1-5398","TCGA-B1-5398-01A",1251,"--","Alive","b46dd0e3-9e8f-40aa-b4b2-f8d09b9b27be","Primary Tumor",2
+"125","590d1c85-e0dd-41b5-b065-e75cb8f6ce79.methylation_array.sesame.level3betas.txt","TCGA-G7-7502","TCGA-G7-7502-01A",786,"--","Alive","d9665f74-3224-4a3c-bb21-3acf4c785a31","Primary Tumor",2
+"131","5ee8fcd3-dc0e-45af-8058-c504ee82eda0.methylation_array.sesame.level3betas.txt","TCGA-HE-A5NI","TCGA-HE-A5NI-01A",360,"--","Alive","c9ad775a-9e24-4a61-811e-41e1577742d2","Primary Tumor",2
+"132","5f4aa80c-a4cf-4f6d-9275-713e10a0ad6e.methylation_array.sesame.level3betas.txt","TCGA-IZ-8196","TCGA-IZ-8196-01A",649,"--","Alive","45de2ba9-f532-4581-b4d3-2fabc9c817bc","Primary Tumor",2
+"133","5fcab2a2-5c54-4a1e-bcce-d81ccf20e372.methylation_array.sesame.level3betas.txt","TCGA-2Z-A9JT","TCGA-2Z-A9JT-01A",684,"--","Alive","73bfec16-4757-4b9c-9817-e01acd6c53ec","Primary Tumor",2
+"134","61118798-9af5-425c-9d1e-6eafa9609d20.methylation_array.sesame.level3betas.txt","TCGA-A4-8517","TCGA-A4-8517-01A",597,"--","Alive","a8fefc24-26a7-4095-96eb-3d4d23673b4c","Primary Tumor",2
+"135","611393d7-1854-4f64-bf45-9ac25c3c0b5a.methylation_array.sesame.level3betas.txt","TCGA-UZ-A9Q0","TCGA-UZ-A9Q0-01A",3368,"--","Alive","d4a382aa-d9a4-4d6a-b03c-9526065b97ca","Primary Tumor",2
+"137","61c30b07-d533-498b-a148-54ef5fd77f3d.methylation_array.sesame.level3betas.txt","TCGA-A4-A772","TCGA-A4-A772-01A",0,"--","Alive","4604329e-2a2d-4dca-97c4-37c8cb14bc6e","Primary Tumor",2
+"138","62212fb8-5584-4cc7-8f4f-57dc2bfaffa4.methylation_array.sesame.level3betas.txt","TCGA-BQ-7055","TCGA-BQ-7055-01A",799,"--","Alive","66896a30-1604-4d6b-a0d1-497048e0c628","Solid Tissue Normal",2
+"139","65a0b3b3-b6ec-4687-b872-3d43fb991ec6.methylation_array.sesame.level3betas.txt","TCGA-HE-7128","TCGA-HE-7128-01A",NA,"--","Alive","840b9655-5a97-4f5b-96a8-73ed432caacd","Primary Tumor",2
+"140","65b24581-c15a-40cc-ae13-30d87567592a.methylation_array.sesame.level3betas.txt","TCGA-P4-AAVL","TCGA-P4-AAVL-01A",NA,"487","Dead","73be011a-abc0-4c2f-afa2-86649767244c","Primary Tumor",2
+"141","663a4c42-1f1f-4b9a-b1d6-b632ee5174dc.methylation_array.sesame.level3betas.txt","TCGA-HE-7129","TCGA-HE-7129-01A",2492,"--","Alive","4fd4ec60-be9a-4fea-83f3-16e9fbdcf1bd","Primary Tumor",2
+"142","679f38d0-42d9-48c1-ae51-8c4c1268e811.methylation_array.sesame.level3betas.txt","TCGA-BQ-7062","TCGA-BQ-7062-01A",116,"--","Alive","405d4954-5447-4719-ae8c-957a681b3cb9","Primary Tumor",2
+"143","67fa5e41-0131-41dc-8bd0-c9324e7c4cda.methylation_array.sesame.level3betas.txt","TCGA-2Z-A9JL","TCGA-2Z-A9JL-01A",1006,"--","Alive","cf1b74fe-c375-4484-91ef-fdf52b78e757","Primary Tumor",2
+"144","69886174-727c-4e79-b5ab-394778ccf609.methylation_array.sesame.level3betas.txt","TCGA-2K-A9WE","TCGA-2K-A9WE-01A",214,"--","Alive","cdf5f32a-cf2b-44f9-b2aa-531a5c471f12","Primary Tumor",2
+"145","6a70e12d-7e4e-4b7c-abf8-9ab2cf371f5a.methylation_array.sesame.level3betas.txt","TCGA-F9-A97G","TCGA-F9-A97G-01A",13,"--","Alive","66244f6c-7b88-4fff-a50e-b18fe7fd297e","Primary Tumor",2
+"146","6bd83ed5-a9e7-4017-b5cc-892453f29527.methylation_array.sesame.level3betas.txt","TCGA-Y8-A898","TCGA-Y8-A898-01A",475,"--","Alive","c176816f-75f2-42e2-a011-e198ed2fc6d0","Primary Tumor",2
+"148","6f1d5d56-d267-4845-a073-f79275a92622.methylation_array.sesame.level3betas.txt","TCGA-BQ-5893","TCGA-BQ-5893-01A",NA,"241","Dead","d178a073-2d86-4c01-935f-1ce5ef61cb7b","Solid Tissue Normal",2
+"149","723a4a04-af6a-4f9d-9997-945c31ec30f9.methylation_array.sesame.level3betas.txt","TCGA-DZ-6134","TCGA-DZ-6134-01A",1856,"--","Alive","fd50387b-612e-4e52-8435-aba7e4fa84be","Solid Tissue Normal",2
+"150","72514c12-05e5-4f66-8c7d-7305b3ed01dc.methylation_array.sesame.level3betas.txt","TCGA-Y8-A8S0","TCGA-Y8-A8S0-01A",183,"--","Alive","d2bc7c50-f7db-4f1e-9e44-8579e7188b64","Primary Tumor",2
+"151","73ad61a0-619f-4451-9472-aa6488c1e3d8.methylation_array.sesame.level3betas.txt","TCGA-BQ-7048","TCGA-BQ-7048-01A",2839,"--","Alive","99828f6f-33f6-4506-a0dd-2ee1b3589d6e","Primary Tumor",2
+"152","73bc54b7-29d5-4d88-9428-fc507008a0f9.methylation_array.sesame.level3betas.txt","TCGA-BQ-7051","TCGA-BQ-7051-01A",1533,"--","Alive","4d02fd01-1e73-48a5-9b87-a56f759bfc9c","Primary Tumor",2
+"154","75295d64-54bd-4670-9b70-0a41f22be9ea.methylation_array.sesame.level3betas.txt","TCGA-Y8-A896","TCGA-Y8-A896-01A",567,"--","Alive","48f41622-331c-4b45-86ef-9e172e204118","Primary Tumor",2
+"155","755a12b9-34a7-4c36-a986-7463baf97170.methylation_array.sesame.level3betas.txt","TCGA-IZ-A6M9","TCGA-IZ-A6M9-01A",376,"--","Alive","062dba55-8247-42e5-abc4-ce3159d4cdc9","Primary Tumor",2
+"157","7a1c6cd4-8b47-42ca-b0f6-7779413364f9.methylation_array.sesame.level3betas.txt","TCGA-MH-A560","TCGA-MH-A560-01A",924,"--","Alive","1a9228c2-b5ee-4bcb-b09b-8278bcb4524a","Primary Tumor",2
+"158","7af2f56f-cc13-455f-b314-5d18388b0dd3.methylation_array.sesame.level3betas.txt","TCGA-BQ-7062","TCGA-BQ-7062-01A",116,"--","Alive","fae4a3a6-fd65-42df-bbd4-853bcd75d5be","Solid Tissue Normal",2
+"160","7c4d76a3-75ef-4e9a-8b4a-97e5bf2bac33.methylation_array.sesame.level3betas.txt","TCGA-A4-A7UZ","TCGA-A4-A7UZ-01A",0,"--","Alive","46172345-1849-4659-b826-0c3121f948d8","Primary Tumor",2
+"163","80b6d3b5-a0cf-4992-a235-2f637ebd0406.methylation_array.sesame.level3betas.txt","TCGA-MH-A55Z","TCGA-MH-A55Z-01A",845,"--","Alive","f2007db7-e403-4664-8bbe-128e0c9f9269","Primary Tumor",2
+"165","817cada4-4e11-4922-8d47-fe18daec433c.methylation_array.sesame.level3betas.txt","TCGA-BQ-5876","TCGA-BQ-5876-01A",586,"--","Alive","5d652acc-e3da-41e8-b92a-332bfa417e6c","Primary Tumor",2
+"166","82c43530-0804-4df7-8166-006c63f4c5e1.methylation_array.sesame.level3betas.txt","TCGA-DZ-6133","TCGA-DZ-6133-01A",NA,"1556","Dead","f3e87492-74fd-4e04-9902-95d0013f3719","Primary Tumor",2
+"167","83dee15a-0aca-4a85-809e-9c71de43da85.methylation_array.sesame.level3betas.txt","TCGA-2Z-A9J6","TCGA-2Z-A9J6-01A",1731,"--","Alive","53b78053-bab2-4376-9090-d3553a8d3aae","Primary Tumor",2
+"170","89791d30-9bc0-4fec-86e9-47a70a793d7f.methylation_array.sesame.level3betas.txt","TCGA-DZ-6131","TCGA-DZ-6131-01A",2429,"--","Alive","c32689e9-1810-4673-814f-1d735fc12ee7","Primary Tumor",2
+"171","8cde1340-f58d-41b8-ad0f-51cd0a123c7a.methylation_array.sesame.level3betas.txt","TCGA-BQ-5894","TCGA-BQ-5894-01A",84,"--","Alive","67306519-812c-4c56-821e-f21740424e36","Solid Tissue Normal",2
+"173","90b5832b-22ef-4309-8a62-57e9080a1b5a.methylation_array.sesame.level3betas.txt","TCGA-A4-8515","TCGA-A4-8515-01A",709,"--","Alive","2471af93-4cf9-453d-bc65-2c94e184a791","Primary Tumor",2
+"174","90f3f774-b0fe-43ed-a4f1-d042e783192c.methylation_array.sesame.level3betas.txt","TCGA-SX-A7SS","TCGA-SX-A7SS-01A",1615,"--","Alive","659a5fb4-f17d-46ab-a448-28a4ad85f3ba","Primary Tumor",2
+"175","9150f5e1-8f27-4023-bdd4-c143a83a7b35.methylation_array.sesame.level3betas.txt","TCGA-BQ-5890","TCGA-BQ-5890-01A",233,"--","Alive","082d441e-da9b-42bd-a321-fdb872e0e102","Primary Tumor",2
+"177","939c2748-bc76-46ae-89c0-cfec2ebdebbc.methylation_array.sesame.level3betas.txt","TCGA-A4-7997","TCGA-A4-7997-01A",927,"--","Alive","5f59052f-1fcb-459d-9b23-90f5949aa4fe","Primary Tumor",2
+"179","93e80842-fe5e-4065-a9cc-c6da3fecdb60.methylation_array.sesame.level3betas.txt","TCGA-IA-A83W","TCGA-IA-A83W-01A",NA,"2042","Dead","dda8ffd1-2d90-4e0c-a785-819a9a526f30","Primary Tumor",2
+"180","94a8cc11-92d4-4a88-a5f6-fdd930a8af05.methylation_array.sesame.level3betas.txt","TCGA-A4-A6HP","TCGA-A4-A6HP-01A",379,"--","Alive","aa55d75e-ebf7-4a0e-9b21-a6f53805e0d8","Primary Tumor",2
+"181","96760459-21e1-4c72-a627-71e655d4df1f.methylation_array.sesame.level3betas.txt","TCGA-EV-5902","TCGA-EV-5902-01A",578,"--","Alive","32e3f974-6daa-4cac-a612-abc62d258e09","Primary Tumor",2
+"183","9878667c-fde3-41a9-a107-9ea3f10795dc.methylation_array.sesame.level3betas.txt","TCGA-A4-7286","TCGA-A4-7286-01A",554,"--","Alive","e6db9491-2c5f-4ed4-b701-148b0669efa1","Primary Tumor",2
+"184","9a762ada-de0d-46f4-a828-099b9d034d72.methylation_array.sesame.level3betas.txt","TCGA-IA-A83S","TCGA-IA-A83S-01A",NA,"2608","Dead","cc5865be-8e2c-4010-bc80-d27cb3807f76","Primary Tumor",2
+"185","9d4bc373-b7e5-497d-96be-f89ff328a742.methylation_array.sesame.level3betas.txt","TCGA-5P-A9KA","TCGA-5P-A9KA-01A",395,"--","Alive","433e25e2-eec0-48d3-9fe8-ae017adcb7a7","Primary Tumor",2
+"187","9e5b34a1-aeba-4bd7-974e-0780b7fd1f70.methylation_array.sesame.level3betas.txt","TCGA-BQ-5891","TCGA-BQ-5891-01A",29,"--","Alive","5bedddb3-0a12-4c96-b77e-aaa74360b63b","Primary Tumor",2
+"188","9e86e6eb-144b-4ef3-9dda-bb0e1149484f.methylation_array.sesame.level3betas.txt","TCGA-A4-8310","TCGA-A4-8310-01A",780,"--","Alive","8c1cdfc4-506a-493b-a05d-357b72612f3b","Primary Tumor",2
+"190","a04f9687-ec88-4db5-aa54-c9e630939b47.methylation_array.sesame.level3betas.txt","TCGA-UZ-A9PL","TCGA-UZ-A9PL-01A",3152,"--","Alive","dfcd3c9d-c4a0-4db6-842f-dc2694319860","Primary Tumor",2
+"192","a349aef2-9bea-48c9-867e-8599703aa89d.methylation_array.sesame.level3betas.txt","TCGA-SX-A71R","TCGA-SX-A71R-01A",1457,"--","Alive","8dcb89cf-4dd0-4e77-adb8-53fa0e77fa1b","Primary Tumor",2
+"193","a3af8e10-2ea5-4e95-809d-82af7ffae349.methylation_array.sesame.level3betas.txt","TCGA-G7-A8LE","TCGA-G7-A8LE-01A",2453,"--","Alive","e9f37583-6868-4bf8-a50d-6c6eb77b3291","Primary Tumor",2
+"194","a3f9c564-d3aa-4f11-bbea-0dd10eab5be3.methylation_array.sesame.level3betas.txt","TCGA-A4-7732","TCGA-A4-7732-01A",582,"--","Alive","88258387-8b0c-48fc-90d1-665eba710d7a","Primary Tumor",2
+"196","a639da8d-d87c-4b69-b49e-3bf27e20ed65.methylation_array.sesame.level3betas.txt","TCGA-2Z-A9J1","TCGA-2Z-A9J1-01A",2298,"--","Alive","0996af68-1c26-43ba-b494-4dafb3f3c359","Primary Tumor",2
+"198","a6f6bb14-2fef-4ef3-b563-e94c88564bf2.methylation_array.sesame.level3betas.txt","TCGA-4A-A93X","TCGA-4A-A93X-01A",390,"--","Alive","529533a5-0812-425d-8c0f-4f4f2838202b","Primary Tumor",2
+"199","a721e2e2-0457-4137-a459-da1b8ea96b1e.methylation_array.sesame.level3betas.txt","TCGA-B9-A8YI","TCGA-B9-A8YI-01A",374,"--","Alive","b1f18403-542e-487f-8f2c-5af5c93f6fb9","Primary Tumor",2
+"200","a7a9e482-12a1-4003-8afa-731e0f6f22bc.methylation_array.sesame.level3betas.txt","TCGA-HE-A5NH","TCGA-HE-A5NH-01A",791,"--","Alive","d84eb81a-4d25-4cf4-9bf6-512bc57202ac","Primary Tumor",2
+"201","a7d74395-7312-4a13-a7bf-85db06d0e556.methylation_array.sesame.level3betas.txt","TCGA-5P-A9JV","TCGA-5P-A9JV-01A",2043,"--","Alive","d115b886-5e86-4d9b-8044-971cf5369850","Primary Tumor",2
+"202","a7eaa0ac-d83f-4dda-b86a-b14cd0e470b2.methylation_array.sesame.level3betas.txt","TCGA-SX-A71V","TCGA-SX-A71V-01A",876,"--","Alive","5a4e03f0-e38a-4b01-b2f9-789da89da96e","Primary Tumor",2
+"203","a8bb4548-9b47-4c13-a46d-4e5c9799ec5a.methylation_array.sesame.level3betas.txt","TCGA-A4-A48D","TCGA-A4-A48D-01A",379,"--","Alive","ec8d78cb-56a8-4100-8a58-f20e02694bbe","Primary Tumor",2
+"204","a9b68c59-3a88-409f-a3ca-d15b641d8839.methylation_array.sesame.level3betas.txt","TCGA-A4-8516","TCGA-A4-8516-01A",23,"--","Alive","40298685-c977-446e-a8f1-f9b7f226c3ad","Primary Tumor",2
+"205","aa5b6805-798e-4af7-b67c-f24fbb1451fd.methylation_array.sesame.level3betas.txt","TCGA-BQ-7060","TCGA-BQ-7060-01A",214,"--","Alive","92cb3d7a-2e3a-4262-a377-e3441206394c","Solid Tissue Normal",2
+"206","ab51d42c-cf7f-45c2-85f1-5d39dad67fb6.methylation_array.sesame.level3betas.txt","TCGA-2Z-A9J5","TCGA-2Z-A9J5-01A",3050,"--","Alive","60207266-8e51-4577-a9a2-2c1c48beccda","Primary Tumor",2
+"207","abc604cb-b51c-4ea1-aed0-1c52c7630178.methylation_array.sesame.level3betas.txt","TCGA-5P-A9K2","TCGA-5P-A9K2-01A",2392,"--","Alive","0eb90b93-c699-48e8-9e9d-fac5cdc2014a","Primary Tumor",2
+"208","abfab5fa-93c2-4103-891f-d66d85fe0180.methylation_array.sesame.level3betas.txt","TCGA-2Z-A9J8","TCGA-2Z-A9J8-01A",2790,"--","Alive","1942a8c7-62f5-48cb-8e04-d79dd9ae23fa","Primary Tumor",2
+"209","adf24fd6-7b53-48e9-81c3-44ff6ede59af.methylation_array.sesame.level3betas.txt","TCGA-G7-6790","TCGA-G7-6790-01A",1575,"--","Alive","0a777eff-bf19-4ccd-9afa-f14d4b0ef50a","Primary Tumor",2
+"211","b042bd55-ad92-40f1-91db-7dcc18235a54.methylation_array.sesame.level3betas.txt","TCGA-5P-A9JY","TCGA-5P-A9JY-01A",NA,"1507","Dead","dcbdbaf2-f72c-4584-be42-255364fc5660","Primary Tumor",2
+"212","b080ef66-5270-44e1-9732-71effe40181e.methylation_array.sesame.level3betas.txt","TCGA-A4-7585","TCGA-A4-7585-01A",NA,"1070","Dead","06340f09-94a0-42c7-9495-5c2899783911","Primary Tumor",2
+"214","b20158ef-4f44-45b8-b57d-46aa6e1770b2.methylation_array.sesame.level3betas.txt","TCGA-BQ-5886","TCGA-BQ-5886-01A",792,"--","Alive","3444de93-a7fc-4c44-acbb-4b39c0315df5","Primary Tumor",2
+"215","b20f9202-c749-411a-a5b2-5673c8328091.methylation_array.sesame.level3betas.txt","TCGA-UZ-A9PV","TCGA-UZ-A9PV-01A",1444,"--","Alive","21c9f67b-29fb-4b05-953d-672179bf3952","Primary Tumor",2
+"216","b243db77-44c5-47c0-9a21-b120c9e78eab.methylation_array.sesame.level3betas.txt","TCGA-IA-A83T","TCGA-IA-A83T-01A",NA,"2683","Dead","3ba72d49-e2d0-4676-9969-6cd0f1f51f76","Primary Tumor",2
+"220","b6d7852c-1b4b-4e73-8042-324cb6c7b44c.methylation_array.sesame.level3betas.txt","TCGA-BQ-5889","TCGA-BQ-5889-01A",NA,"329","Dead","8f8c7723-f819-43b2-983f-f248e7902f0c","Solid Tissue Normal",2
+"221","b71f4fc5-e166-487b-80d8-5522ae3ac81e.methylation_array.sesame.level3betas.txt","TCGA-2Z-A9JR","TCGA-2Z-A9JR-01A",161,"--","Alive","bc0d22aa-d763-4ce6-9607-83afb85391fc","Primary Tumor",2
+"222","b740f283-50b0-4844-8742-45f90417dcba.methylation_array.sesame.level3betas.txt","TCGA-SX-A71U","TCGA-SX-A71U-01A",1357,"--","Alive","5e5a5b7c-84b6-49ba-aff1-d36ecc043945","Primary Tumor",2
+"224","b7825600-1174-4a40-b0e9-ca8a6eb7821d.methylation_array.sesame.level3betas.txt","TCGA-BQ-5887","TCGA-BQ-5887-01A",771,"--","Alive","0ae06344-8105-49d5-9066-87ae966ccb5a","Primary Tumor",2
+"226","b7a6a154-722a-4c87-9698-5205ca78a3db.methylation_array.sesame.level3betas.txt","TCGA-GL-A9DE","TCGA-GL-A9DE-01A",496,"--","Alive","ec80b3a5-41fd-4e8a-bae2-45a1ae456c27","Primary Tumor",2
+"227","b876d088-5737-43ed-b70a-20de944d9d85.methylation_array.sesame.level3betas.txt","TCGA-HE-A5NL","TCGA-HE-A5NL-01A",767,"--","Alive","be0b006d-23b6-445d-b5e8-a495e8379ec2","Primary Tumor",2
+"229","b903f31b-f7cd-4282-822f-12495bb94e2a.methylation_array.sesame.level3betas.txt","TCGA-B1-A47M","TCGA-B1-A47M-01A",659,"--","Alive","46ca14ec-4796-4881-a7ca-0fe8f7970707","Solid Tissue Normal",2
+"231","ba19f580-e704-472b-a81b-eb261836e660.methylation_array.sesame.level3betas.txt","TCGA-P4-AAVO","TCGA-P4-AAVO-01A",2400,"--","Alive","5d66b204-9b01-47cf-8491-a96d2831a78f","Primary Tumor",2
+"232","ba2ffd65-d07e-4bcf-8edb-b8de307a1b66.methylation_array.sesame.level3betas.txt","TCGA-P4-A5E6","TCGA-P4-A5E6-01A",3035,"--","Alive","fe5a0d9f-3216-4101-9b34-d960d2ce6973","Primary Tumor",2
+"233","bacb8ac9-29fd-4725-be75-7d07d92b8a66.methylation_array.sesame.level3betas.txt","TCGA-UZ-A9PQ","TCGA-UZ-A9PQ-01A",2182,"2623","Dead","5ba6adbe-40bb-4359-befd-dcfbaa593727","Primary Tumor",2
+"234","baed8332-9bc2-46d1-954e-275786b88a94.methylation_array.sesame.level3betas.txt","TCGA-B9-5156","TCGA-B9-5156-01A",1338,"--","Alive","43edf900-62d3-4928-8b26-a264d69faeed","Primary Tumor",2
+"235","baf8231c-1dbb-4ffa-9a47-d5fef956c21f.methylation_array.sesame.level3betas.txt","TCGA-G7-A8LB","TCGA-G7-A8LB-01A",547,"--","Alive","a6607a2f-a302-4b6c-8f40-734eba5604d4","Primary Tumor",2
+"237","bbbb761d-bbd1-4ee7-90d9-6b9338d58066.methylation_array.sesame.level3betas.txt","TCGA-SX-A7SU","TCGA-SX-A7SU-01A",1331,"--","Alive","0cf1cc8b-fb0f-4f1e-8399-78086f99fcac","Primary Tumor",2
+"238","bbc21283-0e74-4261-8ed7-81730855b2ab.methylation_array.sesame.level3betas.txt","TCGA-IZ-8195","TCGA-IZ-8195-01A",677,"--","Alive","022b0dbc-5850-4fb4-815b-d22ed7574d01","Primary Tumor",2
+"239","bc602f38-7386-4ce9-a2e1-1e586067bc11.methylation_array.sesame.level3betas.txt","TCGA-UZ-A9PO","TCGA-UZ-A9PO-01A",1911,"--","Alive","9a6fb9cb-b36b-41f3-ad48-3654934f8ab5","Primary Tumor",2
+"240","bc8a8793-d48c-4020-839d-581613f4bc11.methylation_array.sesame.level3betas.txt","TCGA-DW-7838","TCGA-DW-7838-01A",744,"--","Alive","88406be5-de39-4cf1-8775-96dfc1034eb3","Primary Tumor",2
+"243","bfdd2ca5-759b-469c-92a5-2e66c138fee2.methylation_array.sesame.level3betas.txt","TCGA-B1-A47N","TCGA-B1-A47N-01A",1110,"--","Alive","354fa61d-34f7-4033-a1e6-c570ec3dbca2","Primary Tumor",2
+"245","c07f4e48-9f2b-4bd5-b033-a68f3e901c1a.methylation_array.sesame.level3betas.txt","TCGA-A4-7583","TCGA-A4-7583-01A",3,"--","Alive","315610e9-5ac1-49e4-9f0b-a4f1af5d9481","Primary Tumor",2
+"246","c0c6afdf-a12a-4f77-9513-a3bfaa6c8455.methylation_array.sesame.level3betas.txt","TCGA-B1-A656","TCGA-B1-A656-01A",618,"--","Alive","e1299364-195e-4109-8192-1a3cde307f68","Primary Tumor",2
+"247","c1433415-d2fe-455d-a53d-c9c120559be1.methylation_array.sesame.level3betas.txt","TCGA-AT-A5NU","TCGA-AT-A5NU-01A",67,"--","Alive","021eed1f-4089-475e-80b4-dec78d054dec","Primary Tumor",2
+"249","c3bc39d4-c179-4523-ab57-dd24e47ca98c.methylation_array.sesame.level3betas.txt","TCGA-BQ-5881","TCGA-BQ-5881-01A",1454,"--","Alive","e40a12da-7f89-4e25-8b8f-655a841fa63d","Primary Tumor",2
+"250","c43b9553-c389-485e-91a8-c9a8ccba23d3.methylation_array.sesame.level3betas.txt","TCGA-2Z-A9JG","TCGA-2Z-A9JG-01A",1662,"--","Alive","1468e97c-a22a-42fa-a282-bb226d74c5c6","Primary Tumor",2
+"251","c576f725-5148-4e3b-aa3f-9f3312827793.methylation_array.sesame.level3betas.txt","TCGA-SX-A7SL","TCGA-SX-A7SL-01A",823,"--","Alive","a98611fa-b933-42d9-959c-37ed70a2a1c0","Primary Tumor",2
+"254","c8e1eb8c-ed87-46bc-a8ce-df39cadd0a51.methylation_array.sesame.level3betas.txt","TCGA-UZ-A9PJ","TCGA-UZ-A9PJ-01A",0,"434","Dead","93339243-68a8-469c-b2a6-3bd712aca88e","Primary Tumor",2
+"255","ca73f356-141c-4882-9c6f-2dc097f75f41.methylation_array.sesame.level3betas.txt","TCGA-BQ-7045","TCGA-BQ-7045-01A",NA,"1467","Dead","37c1f75f-230c-40c4-9cb9-c500891d3ff9","Primary Tumor",2
+"256","ca9b915d-75a7-49fd-88e4-cb4b8b6bec45.methylation_array.sesame.level3betas.txt","TCGA-G7-6792","TCGA-G7-6792-01A",2765,"--","Alive","20083dcf-b64c-430a-919d-83224e5159cb","Primary Tumor",2
+"257","cc6caac2-9360-4071-a5b5-5ec5aba153f8.methylation_array.sesame.level3betas.txt","TCGA-5P-A9KE","TCGA-5P-A9KE-01A",824,"--","Alive","461a84ca-d638-41c8-9304-2434554fd131","Primary Tumor",2
+"259","cebe68f8-ce95-4a1f-b4b4-608656133920.methylation_array.sesame.level3betas.txt","TCGA-BQ-5876","TCGA-BQ-5876-01A",586,"--","Alive","cd4404e4-038d-4abe-9c5c-a8a6a126309a","Solid Tissue Normal",2
+"260","cf22aefd-2a48-4d2e-abea-9ca581f3ceaa.methylation_array.sesame.level3betas.txt","TCGA-G7-6795","TCGA-G7-6795-01A",1194,"--","Alive","4b2c4f08-5ca5-462a-9efe-4fda3f027192","Primary Tumor",2
+"261","cf36ef53-388f-4107-946f-fb2832e4f2a7.methylation_array.sesame.level3betas.txt","TCGA-BQ-5880","TCGA-BQ-5880-01A",NA,"1314","Dead","ba1c1aff-2e4c-4e2a-87da-fdcb830cbe98","Solid Tissue Normal",2
+"263","d0d3e647-3483-4a36-959e-3c2aad10683a.methylation_array.sesame.level3betas.txt","TCGA-UZ-A9PR","TCGA-UZ-A9PR-01A",2627,"--","Alive","3b0f3852-0e6b-4464-8de4-bcb710fa256f","Primary Tumor",2
+"264","d1dc46bc-34a3-4ef1-894c-f2b019b3e6f1.methylation_array.sesame.level3betas.txt","TCGA-DZ-6132","TCGA-DZ-6132-01A",2460,"--","Alive","c2dba896-de3d-4aa0-ac08-e21031b8d79b","Solid Tissue Normal",2
+"265","d1f44b35-ab25-44a7-a070-81a5cc0a6c7b.methylation_array.sesame.level3betas.txt","TCGA-P4-AAVK","TCGA-P4-AAVK-01A",1590,"--","Alive","97050f01-a133-41f5-bc5c-fa6d36ba3c2d","Primary Tumor",2
+"266","d2a2c8d4-af24-40e3-9999-8959aadb8940.methylation_array.sesame.level3betas.txt","TCGA-SX-A7SO","TCGA-SX-A7SO-01A",1257,"--","Alive","04d2357b-d093-40dd-842b-0133590e4f46","Primary Tumor",2
+"267","d78843fe-3731-468a-9aac-448fe3e22c79.methylation_array.sesame.level3betas.txt","TCGA-GL-A9DD","TCGA-GL-A9DD-01A",341,"--","Alive","763d05bb-f185-4a68-8b8c-2849156fff1b","Primary Tumor",2
+"268","d943714b-80f7-4b15-83a4-e9ccf61a998c.methylation_array.sesame.level3betas.txt","TCGA-BQ-5886","TCGA-BQ-5886-01A",792,"--","Alive","8f240228-5939-4256-9485-3831d26c6b1d","Solid Tissue Normal",2
+"269","db3ce019-edb7-49c5-b402-b44b039b3084.methylation_array.sesame.level3betas.txt","TCGA-2Z-A9JM","TCGA-2Z-A9JM-01A",934,"--","Alive","8121b465-db74-4bea-bef2-a961733ba134","Primary Tumor",2
+"270","dbd6288a-27ce-4aca-8e16-047ba5c8ebcd.methylation_array.sesame.level3betas.txt","TCGA-G7-A8LC","TCGA-G7-A8LC-01A",702,"--","Alive","c8e7c37f-16ed-41a6-8aaa-949a41dfaa6d","Primary Tumor",2
+"271","dd7d39a6-ca48-4d77-9f7c-9bcfa0337ff3.methylation_array.sesame.level3betas.txt","TCGA-P4-A5ED","TCGA-P4-A5ED-01A",2816,"--","Alive","55129c5d-2867-4f41-915b-652187dc2af9","Primary Tumor",2
+"272","dd866b81-7c67-48cc-8e15-8fe2b1be7cba.methylation_array.sesame.level3betas.txt","TCGA-KV-A6GD","TCGA-KV-A6GD-01A",560,"--","Alive","41dc6d61-cf40-4395-a9ab-236f988c0d4c","Primary Tumor",2
+"273","dd9ff4d8-be58-4675-8ed8-a69e4e56c6b5.methylation_array.sesame.level3betas.txt","TCGA-MH-A55W","TCGA-MH-A55W-01A",1043,"--","Alive","dd1e64ba-c802-4264-acfc-a52342870739","Primary Tumor",2
+"275","de45c481-f30a-4b44-a3a6-673b004e7988.methylation_array.sesame.level3betas.txt","TCGA-BQ-7051","TCGA-BQ-7051-01A",1533,"--","Alive","b5a49f84-298d-424e-8aa8-aa081771302e","Solid Tissue Normal",2
+"277","e079a20c-6cdc-4b74-afdf-3fee58f0b574.methylation_array.sesame.level3betas.txt","TCGA-BQ-7059","TCGA-BQ-7059-01A",232,"--","Alive","225581a3-84ba-4efb-8f22-c547c0ce3265","Primary Tumor",2
+"278","e2016a94-9275-4b1a-b6c9-f7a0b434cca8.methylation_array.sesame.level3betas.txt","TCGA-EV-5903","TCGA-EV-5903-01A",757,"--","Alive","8d887ad6-35ca-4ac8-bf70-40a04342cc86","Primary Tumor",2
+"279","e32a2729-c2b6-4876-ab75-4bbaecbf3768.methylation_array.sesame.level3betas.txt","TCGA-5P-A9K4","TCGA-5P-A9K4-01A",2184,"--","Alive","70c46e73-3c8d-4fa5-ae0a-bdf325f9682a","Primary Tumor",2
+"280","e3532e22-983b-46a5-b431-1cf17ebd9c92.methylation_array.sesame.level3betas.txt","TCGA-KV-A74V","TCGA-KV-A74V-01A",347,"--","Alive","32264786-5d54-4256-8113-1a4086c28be7","Primary Tumor",2
+"281","e3612869-4ffc-428a-8ec0-443e2ecd60ac.methylation_array.sesame.level3betas.txt","TCGA-BQ-7059","TCGA-BQ-7059-01A",232,"--","Alive","ec773a36-fa86-4133-8a36-d582d5a78c10","Solid Tissue Normal",2
+"285","e84087ee-7f6f-41fc-96f2-f7c42d893e9c.methylation_array.sesame.level3betas.txt","TCGA-GL-6846","TCGA-GL-6846-01A",5925,"--","Alive","1c2f5555-b6d6-4ec0-bcac-a30ad9c1e974","Solid Tissue Normal",2
+"286","ea861b54-232f-4f14-9954-d33784b2b59d.methylation_array.sesame.level3betas.txt","TCGA-DW-5561","TCGA-DW-5561-01A",414,"--","Alive","c09b5a38-7c1f-4b54-b74c-3080a77a6d12","Primary Tumor",2
+"287","ea91729c-1ec2-4800-a769-fb617e3e0d12.methylation_array.sesame.level3betas.txt","TCGA-HE-A5NK","TCGA-HE-A5NK-01A",2228,"--","Alive","e61a91f2-92c6-485b-bf1e-5a9872c49e9c","Primary Tumor",2
+"288","ea96503a-2728-40bc-8f02-215ad1660ea7.methylation_array.sesame.level3betas.txt","TCGA-MH-A561","TCGA-MH-A561-01A",841,"--","Alive","8f57022d-d0a9-4ce3-ba2e-3a6f69de5be1","Primary Tumor",2
+"289","ec409f7e-fbd0-4ac8-bfe5-46158f4e9a1e.methylation_array.sesame.level3betas.txt","TCGA-DW-7842","TCGA-DW-7842-01A",92,"--","Alive","e319fd90-43b9-4902-86c5-da4e37b0e4f4","Primary Tumor",2
+"290","ec73d775-2ac8-4634-b20f-f0035eda213e.methylation_array.sesame.level3betas.txt","TCGA-BQ-5892","TCGA-BQ-5892-01A",364,"--","Alive","9f5b2d46-ce10-4bb1-9b97-7154daecb763","Primary Tumor",2
+"291","ed793162-c6d0-47d5-9cea-91ae3961e9cd.methylation_array.sesame.level3betas.txt","TCGA-UZ-A9PN","TCGA-UZ-A9PN-01A",667,"1136","Dead","bc984dad-4274-4fc9-96c4-a8f8696266dd","Primary Tumor",2
+"293","ef57ccab-e32f-4d72-bd49-5ea7727b2340.methylation_array.sesame.level3betas.txt","TCGA-BQ-7048","TCGA-BQ-7048-01A",2839,"--","Alive","93fe9530-0326-4711-b83b-39181adbda7f","Solid Tissue Normal",2
+"294","efc85cad-1eb9-4d98-930a-6a2e4a1d96c0.methylation_array.sesame.level3betas.txt","TCGA-DZ-6135","TCGA-DZ-6135-01A",2269,"--","Alive","849cf4d2-7f57-4a6b-9445-a619d4fd7fe6","Primary Tumor",2
+"295","f12ccb01-334d-47a1-8096-8d39415d854d.methylation_array.sesame.level3betas.txt","TCGA-A4-7732","TCGA-A4-7732-01A",582,"--","Alive","c1fa80d0-7ebd-4fd4-b58b-07ed7d559532","Solid Tissue Normal",2
+"297","f3cbb7da-6a9d-48d4-b98c-d62c50c0273b.methylation_array.sesame.level3betas.txt","TCGA-J7-6720","TCGA-J7-6720-01A",388,"--","Alive","5ec4f9b1-6b8a-4cd2-9945-d8c388b8fe9e","Primary Tumor",2
+"298","f3f93958-b3d6-4842-ace3-c90c7702350c.methylation_array.sesame.level3betas.txt","TCGA-UZ-A9PU","TCGA-UZ-A9PU-01A",NA,"933","Dead","e23bdbb4-a1a1-433c-8941-8761d493acce","Primary Tumor",2
+"299","f4350675-a0ad-4c18-9684-3b6e4f9e42ed.methylation_array.sesame.level3betas.txt","TCGA-BQ-5882","TCGA-BQ-5882-01A",NA,"658","Dead","ad244a03-5f7d-4c8a-8a66-1276e5e18320","Solid Tissue Normal",2
+"302","f7b3e029-6c56-4e32-9f10-5482d541b274.methylation_array.sesame.level3betas.txt","TCGA-G7-A4TM","TCGA-G7-A4TM-01A",768,"--","Alive","0af32b8e-b2dc-4151-be19-d7ebe8581155","Primary Tumor",2
+"303","f8ca194e-0c9b-471c-9e0c-96771c80f2c9.methylation_array.sesame.level3betas.txt","TCGA-BQ-7044","TCGA-BQ-7044-01A",3760,"--","Alive","bbbc9154-0234-431e-9bc1-67eb0039d426","Solid Tissue Normal",2
+"304","fa857b95-c3d7-4d3a-8f72-2b1431af2922.methylation_array.sesame.level3betas.txt","TCGA-BQ-5892","TCGA-BQ-5892-01A",364,"--","Alive","1e66dadc-8d39-457e-8525-6a9307e017f4","Solid Tissue Normal",2
+"305","fa90cdc3-578a-466d-bb7d-bad6bc938287.methylation_array.sesame.level3betas.txt","TCGA-UZ-A9PZ","TCGA-UZ-A9PZ-01A",657,"--","Alive","8f0734b9-2617-4f50-9bb3-26d1cf029558","Primary Tumor",2
+"306","fafd4596-69f5-44ed-9ebf-9d1effc849d0.methylation_array.sesame.level3betas.txt","TCGA-5P-A9K6","TCGA-5P-A9K6-01A",1914,"--","Alive","65cd8889-7c1d-4d75-a4f7-d2e018c47ec3","Primary Tumor",2
+"307","fd12ff16-7a59-4523-a6e8-1cb24080570a.methylation_array.sesame.level3betas.txt","TCGA-BQ-5877","TCGA-BQ-5877-01A",NA,"270","Dead","7fe7bb71-16b6-44eb-b24e-b5379faa3e9c","Solid Tissue Normal",2
+"308","ff341c59-25d1-4a6b-a267-977d11d81539.methylation_array.sesame.level3betas.txt","TCGA-BQ-5880","TCGA-BQ-5880-01A",NA,"1314","Dead","b7ee49be-a49c-4bf7-91a9-0b1bb312ec24","Primary Tumor",2
+"309","ff703b60-98eb-4500-a22d-ed88059fed1d.methylation_array.sesame.level3betas.txt","TCGA-Y8-A895","TCGA-Y8-A895-01A",484,"--","Alive","99d16600-ad79-4cc3-ac17-96ba0df85bdd","Primary Tumor",2
+"311","ffbbdca4-4353-4d10-93d8-0bd6e64346f8.methylation_array.sesame.level3betas.txt","TCGA-Y8-A8RY","TCGA-Y8-A8RY-01A",769,"--","Alive","edd51a0a-ce63-4fe7-b9dd-5620eb86edd4","Primary Tumor",2
+"6","06d97c63-8c84-4ae6-aaf8-523c60380bd2.methylation_array.sesame.level3betas.txt","TCGA-BQ-5878","TCGA-BQ-5878-01A",1938,"--","Alive","fba1d193-1794-41e4-aaf4-bd90792a8dd5","Primary Tumor",3
+"7","086ed951-b3cb-4feb-ae26-2e65c66f62cd.methylation_array.sesame.level3betas.txt","TCGA-A4-7734","TCGA-A4-7734-01A",27,"--","Alive","2957ce81-a0cc-48a4-998b-9ce443746e15","Primary Tumor",3
+"13","0c58d808-cae0-4933-a8e4-b4a56caee2cc.methylation_array.sesame.level3betas.txt","TCGA-PJ-A5Z8","TCGA-PJ-A5Z8-01A",600,"--","Alive","c16bfccd-2f3a-4a2c-af34-b2ee8cb9ce65","Primary Tumor",3
+"26","13fab666-6e02-47dc-8177-c9ca126baaa9.methylation_array.sesame.level3betas.txt","TCGA-A4-A4ZT","TCGA-A4-A4ZT-01A",516,"--","Alive","2b881cf8-78af-49bc-b721-fa766f139424","Primary Tumor",3
+"29","15e8caf1-9abe-4cbd-a536-cb09d3e617eb.methylation_array.sesame.level3betas.txt","TCGA-BQ-7050","TCGA-BQ-7050-01A",1864,"--","Alive","a873bf5f-0576-4744-bd89-fc87b635e57b","Primary Tumor",3
+"30","175f7293-5367-4406-9240-bf452d434879.methylation_array.sesame.level3betas.txt","TCGA-2Z-A9JJ","TCGA-2Z-A9JJ-01A",1213,"--","Alive","9632f0ff-c94c-4beb-974c-533f0abf387c","Primary Tumor",3
+"49","237dfb56-61ae-469d-ad60-2d99c00ee350.methylation_array.sesame.level3betas.txt","TCGA-A4-7996","TCGA-A4-7996-01A",506,"--","Alive","c9198cf4-b12d-407b-a37b-63ceaea789a6","Primary Tumor",3
+"57","297ccf9d-1322-4228-b51e-bfb88aff21ef.methylation_array.sesame.level3betas.txt","TCGA-2Z-A9JO","TCGA-2Z-A9JO-01A",949,"--","Alive","d606f318-dd08-44f8-9fda-3ca0dae3429d","Primary Tumor",3
+"62","2be69097-8f24-4c45-bf9c-98bcb86df2c3.methylation_array.sesame.level3betas.txt","TCGA-A4-7288","TCGA-A4-7288-01A",1857,"--","Alive","6e49c377-1c2a-4b05-afd0-7469ee16f914","Solid Tissue Normal",3
+"63","2c0067c6-1e68-4bed-a57f-a73c2185005f.methylation_array.sesame.level3betas.txt","TCGA-BQ-5879","TCGA-BQ-5879-01A",NA,"697","Dead","a891d20f-c72c-4ead-ac0c-f1e486bde4ce","Solid Tissue Normal",3
+"64","2d46f3e3-e38a-4ebf-80d5-b9cc21c71684.methylation_array.sesame.level3betas.txt","TCGA-BQ-7061","TCGA-BQ-7061-01A",218,"--","Alive","c441b364-8c3b-4958-ac84-978112c1bdf3","Solid Tissue Normal",3
+"65","2d6f86e5-f70b-4c16-bbab-7751df2cdbcb.methylation_array.sesame.level3betas.txt","TCGA-BQ-5891","TCGA-BQ-5891-01A",29,"--","Alive","9117454d-0c69-44f0-a2b1-4c5a7b17a888","Solid Tissue Normal",3
+"66","2d851c37-1bfe-488e-8a8d-7a88d036e4fd.methylation_array.sesame.level3betas.txt","TCGA-2Z-A9JN","TCGA-2Z-A9JN-01A",740,"--","Alive","eadd0774-631e-4704-8a35-d153a000c1e0","Primary Tumor",3
+"67","2e794f2f-27bd-4b2d-8be3-3cb549235663.methylation_array.sesame.level3betas.txt","TCGA-4A-A93Y","TCGA-4A-A93Y-01A",352,"--","Alive","69289838-1948-4ba3-8c89-dedad6d032fe","Primary Tumor",3
+"68","2ef6c8fe-312a-4543-81c0-03bd767d4037.methylation_array.sesame.level3betas.txt","TCGA-4A-A93W","TCGA-4A-A93W-01A",4,"--","Alive","35f6da81-576b-4a7f-ab54-90b49bcf36c0","Primary Tumor",3
+"70","301ec80b-e5f9-4ef7-869b-5c45fcba34b9.methylation_array.sesame.level3betas.txt","TCGA-MH-A857","TCGA-MH-A857-01A",890,"--","Alive","5aa65af0-8e85-4a99-adad-10b00ea3976c","Primary Tumor",3
+"71","31628c32-e389-464a-9501-193650d8d5f0.methylation_array.sesame.level3betas.txt","TCGA-WN-AB4C","TCGA-WN-AB4C-01A",1188,"--","Alive","069fc71d-e825-4006-8ad5-0f0c071a3668","Primary Tumor",3
+"74","354cf032-8b50-467b-97f7-a0de91deec75.methylation_array.sesame.level3betas.txt","TCGA-BQ-7053","TCGA-BQ-7053-01A",1516,"--","Alive","997ec03b-7bae-4056-998d-3470ef160f1c","Primary Tumor",3
+"82","3863631c-a468-458f-bc68-6ecbbfabf997.methylation_array.sesame.level3betas.txt","TCGA-DW-5560","TCGA-DW-5560-01A",1486,"--","Alive","3ad22bbd-77bf-4f14-80d3-2e051c74b823","Primary Tumor",3
+"84","38c958a6-29e1-414c-94e7-c3546739d5f5.methylation_array.sesame.level3betas.txt","TCGA-SX-A7SP","TCGA-SX-A7SP-01A",NA,"496","Dead","29e7ff5d-1830-48e0-9e2e-0160b5707b80","Primary Tumor",3
+"90","3b20e827-dd6f-472b-bd36-01e718a3dfc4.methylation_array.sesame.level3betas.txt","TCGA-P4-A5E7","TCGA-P4-A5E7-01A",2649,"--","Alive","ac0f817e-5783-480b-977e-c0351cc0930d","Primary Tumor",3
+"91","3b7fee58-56ca-4c83-a64b-4870d126d8f5.methylation_array.sesame.level3betas.txt","TCGA-A4-8630","TCGA-A4-8630-01A",436,"--","Alive","bdbaea3e-71b3-4607-8f2d-92af417879eb","Primary Tumor",3
+"97","3dd4f943-bbf0-4b98-93b9-0bda9722e5cc.methylation_array.sesame.level3betas.txt","TCGA-GL-A9DC","TCGA-GL-A9DC-01A",392,"--","Alive","4b08cd48-84fa-432b-b00b-de3148d223cb","Primary Tumor",3
+"105","423228ae-a6d4-4d8d-8b2b-6bb4822c6755.methylation_array.sesame.level3betas.txt","TCGA-BQ-7061","TCGA-BQ-7061-01A",218,"--","Alive","6e7bf065-2a01-4962-9d2c-e84143be9ab8","Primary Tumor",3
+"110","4754fb18-8919-47af-9c52-78c0038024e1.methylation_array.sesame.level3betas.txt","TCGA-IA-A40X","TCGA-IA-A40X-01A",608,"--","Alive","ef7f2776-b836-407c-a940-348ae7cda1bc","Primary Tumor",3
+"112","4aebc294-8c6a-426a-b858-565892c2f4de.methylation_array.sesame.level3betas.txt","TCGA-Y8-A897","TCGA-Y8-A897-01A",549,"--","Alive","2988ccc2-f1a7-41be-9380-970df0385f09","Primary Tumor",3
+"119","54aeb4db-5635-4b8e-a525-7e3dcd2a7b11.methylation_array.sesame.level3betas.txt","TCGA-AL-7173","TCGA-AL-7173-01A",2060,"--","Alive","07f2c31f-1593-4f2e-8f55-507ca7c337df","Primary Tumor",3
+"120","54ff7204-f753-4e82-925e-7dc9f43f0a9b.methylation_array.sesame.level3betas.txt","TCGA-BQ-5875","TCGA-BQ-5875-01A",2639,"--","Alive","404cac5c-8472-4200-8f0f-77602959d7aa","Solid Tissue Normal",3
+"123","57e400ac-68a7-4819-b742-ef379d57c066.methylation_array.sesame.level3betas.txt","TCGA-BQ-5888","TCGA-BQ-5888-01A",403,"--","Alive","b2f9279c-93b0-46cf-b747-7449cbba677d","Primary Tumor",3
+"124","58e5a423-2b05-425f-9284-1729e0d7ffc3.methylation_array.sesame.level3betas.txt","TCGA-PJ-A5Z9","TCGA-PJ-A5Z9-01A",540,"--","Alive","2120fa12-23cf-4be6-9cd0-b4966ab3578d","Primary Tumor",3
+"126","5a187035-71c7-4ebf-a527-dcfce16f59ad.methylation_array.sesame.level3betas.txt","TCGA-A4-7828","TCGA-A4-7828-01A",238,"--","Alive","9179f7b5-fa7c-4afc-aa82-7792ddb3fbf3","Primary Tumor",3
+"127","5a70cf5f-f618-4359-955a-621028c9f92f.methylation_array.sesame.level3betas.txt","TCGA-BQ-5888","TCGA-BQ-5888-01A",403,"--","Alive","8be650a3-2ecb-447d-b0f8-9e47861040d9","Solid Tissue Normal",3
+"128","5c8a01ef-d3d8-4170-a200-0149aba593cb.methylation_array.sesame.level3betas.txt","TCGA-EV-5901","TCGA-EV-5901-01A",1040,"--","Alive","dc21575b-0f0e-40b7-a5cb-2425385ed896","Primary Tumor",3
+"129","5cd235dc-fedd-4f8d-9059-864e4d5760b0.methylation_array.sesame.level3betas.txt","TCGA-BQ-7050","TCGA-BQ-7050-01A",1864,"--","Alive","bf97b435-d205-4d79-88c1-1721e8706cce","Solid Tissue Normal",3
+"147","6ef13a04-dda9-4259-9328-f9f8c2c8b5ff.methylation_array.sesame.level3betas.txt","TCGA-DW-7839","TCGA-DW-7839-01A",419,"--","Alive","0a0dc992-4d34-4ff3-815e-feb3d3ae6f07","Primary Tumor",3
+"153","74628fa7-2866-4c11-b13a-0ab2788097c4.methylation_array.sesame.level3betas.txt","TCGA-MH-A854","TCGA-MH-A854-01A",536,"--","Alive","71cfc54d-0b65-4372-a8f6-41883487b702","Primary Tumor",3
+"156","797a74c9-1753-48d8-95d6-d3cbc8e59076.methylation_array.sesame.level3betas.txt","TCGA-BQ-5883","TCGA-BQ-5883-01A",1242,"--","Alive","210ab66b-788c-4b6d-848c-a2af036633cc","Primary Tumor",3
+"159","7c3b4f9a-7b78-4c1d-80a6-367a0215c582.methylation_array.sesame.level3betas.txt","TCGA-BQ-5878","TCGA-BQ-5878-01A",1938,"--","Alive","9218a1cb-0c33-462b-9e4b-1b3adaa233ad","Solid Tissue Normal",3
+"161","7d5367a2-09e4-41a9-9b0b-84ce4b957f05.methylation_array.sesame.level3betas.txt","TCGA-5P-A9JZ","TCGA-5P-A9JZ-01A",2744,"--","Alive","2d862c5a-a3d1-4d9b-9179-be238d157a6a","Primary Tumor",3
+"164","813eb85c-641a-418d-9bde-f4ff2cf8e216.methylation_array.sesame.level3betas.txt","TCGA-A4-7288","TCGA-A4-7288-01A",1857,"--","Alive","a30eec6a-e265-47be-b8d6-b3daeb8a7a69","Primary Tumor",3
+"172","903e5eb4-5e1a-45ce-ae46-80e39ec51510.methylation_array.sesame.level3betas.txt","TCGA-2Z-A9J2","TCGA-2Z-A9J2-01A",1795,"--","Alive","d2511078-7fa3-4eeb-812a-2dfa0a3158ae","Primary Tumor",3
+"178","93e3ef7e-73ec-48dd-a5e2-060279f0b39f.methylation_array.sesame.level3betas.txt","TCGA-B3-8121","TCGA-B3-8121-01A",379,"--","Alive","be4348aa-86a2-45df-895e-3e59cac6b3ca","Primary Tumor",3
+"182","97acb16e-beb2-4417-bc4f-ac47efdd2721.methylation_array.sesame.level3betas.txt","TCGA-DZ-6133","TCGA-DZ-6133-01A",NA,"1556","Dead","22f05682-91dc-4e19-b372-4bf8cd67d096","Solid Tissue Normal",3
+"186","9dfa2a1e-4d35-40c1-86dc-90de55beeb4e.methylation_array.sesame.level3betas.txt","TCGA-A4-A5DU","TCGA-A4-A5DU-01A",496,"--","Alive","93160149-40fd-4c34-9489-fb1e12160d77","Primary Tumor",3
+"189","a019f7d6-4f32-498c-ad35-a34a99b87223.methylation_array.sesame.level3betas.txt","TCGA-5P-A9KH","TCGA-5P-A9KH-01A",2051,"--","Alive","ffdfb565-a07f-488f-9e3f-d0926f38d41a","Primary Tumor",3
+"191","a0b5dd6d-a2af-4217-a9d1-e6b7b7e79637.methylation_array.sesame.level3betas.txt","TCGA-Y8-A894","TCGA-Y8-A894-01A",567,"--","Alive","dc6c6101-9c8e-41b4-82e7-bd3c408210c3","Primary Tumor",3
+"195","a472bf88-f92c-4312-a39d-f818c9b6237f.methylation_array.sesame.level3betas.txt","TCGA-B1-A655","TCGA-B1-A655-01A",510,"--","Alive","afc56754-1003-4119-af20-fe6bbcf38b35","Primary Tumor",3
+"197","a6a73194-c163-4866-ad72-6b9138d341f9.methylation_array.sesame.level3betas.txt","TCGA-F9-A7VF","TCGA-F9-A7VF-01A",73,"--","Alive","3ad87c05-8ea2-4e57-8120-fd4eff20d20e","Primary Tumor",3
+"210","afc9ff46-5285-4149-adac-370d81f32f78.methylation_array.sesame.level3betas.txt","TCGA-MH-A855","TCGA-MH-A855-01A",369,"--","Alive","a3697c67-041a-4b46-9a3a-23f924911d72","Primary Tumor",3
+"213","b194e22c-da06-404e-8c21-73e4ec96f857.methylation_array.sesame.level3betas.txt","TCGA-F9-A7Q0","TCGA-F9-A7Q0-01A",398,"--","Alive","9bb23879-cca1-48b5-910d-ea041fadba74","Primary Tumor",3
+"217","b28529e7-5809-4099-b548-15074432f1ab.methylation_array.sesame.level3betas.txt","TCGA-BQ-5884","TCGA-BQ-5884-01A",792,"--","Alive","01e4efef-3b0a-4e3b-8a22-7e715b3419ff","Solid Tissue Normal",3
+"218","b583954e-e9f7-4c10-8552-2eccb5078728.methylation_array.sesame.level3betas.txt","TCGA-5P-A9KC","TCGA-5P-A9KC-01A",377,"--","Alive","bd88685a-1299-48ab-b60e-004729508048","Primary Tumor",3
+"219","b5cf1c08-51b1-4d87-8b78-65ac23e95627.methylation_array.sesame.level3betas.txt","TCGA-BQ-5884","TCGA-BQ-5884-01A",792,"--","Alive","03e15bf0-da43-4836-a3a4-58dfeb5f65d0","Primary Tumor",3
+"223","b78067a0-1809-4f27-9ec3-91372cbffa87.methylation_array.sesame.level3betas.txt","TCGA-UZ-A9PS","TCGA-UZ-A9PS-01A",2167,"--","Alive","359e187f-6a0b-49fa-86ef-02a217973e3b","Primary Tumor",3
+"225","b7858d84-b505-44cb-84dc-61840cb1eaf6.methylation_array.sesame.level3betas.txt","TCGA-IA-A40Y","TCGA-IA-A40Y-01A",62,"--","Alive","66cdb9a9-4997-4c9d-b7ff-e2c93869c0e3","Primary Tumor",3
+"228","b8c221f4-053c-45a2-81e5-8e34d7a44497.methylation_array.sesame.level3betas.txt","TCGA-SX-A71S","TCGA-SX-A71S-01A",1504,"--","Alive","9ffb3a83-d5eb-4c7a-bec7-c28be21b8071","Primary Tumor",3
+"230","b9152eae-3d5c-41fa-8e5a-b4ab90ec5fb0.methylation_array.sesame.level3betas.txt","TCGA-G7-7501","TCGA-G7-7501-01A",416,"624","Dead","4e8b723d-c704-4287-bce7-b4b4781ce594","Primary Tumor",3
+"236","bb1c2aa6-edb8-4f7c-9ef7-39e103326f54.methylation_array.sesame.level3betas.txt","TCGA-A4-A5XZ","TCGA-A4-A5XZ-01A",479,"--","Alive","3b32c772-2c2a-42cb-82ad-704f5248be07","Primary Tumor",3
+"241","bf583432-b65f-48d6-813c-6f1345c1a8c6.methylation_array.sesame.level3betas.txt","TCGA-UN-AAZ9","TCGA-UN-AAZ9-01A",548,"--","Alive","9aebe3e0-1c38-4cb3-a879-58a43ca7fe43","Primary Tumor",3
+"242","bf85e9f6-bf73-4203-94c4-e172c6030ecf.methylation_array.sesame.level3betas.txt","TCGA-HE-7130","TCGA-HE-7130-01A",1770,"--","Alive","500603ac-64b6-478b-93b3-50fdc65111b4","Primary Tumor",3
+"244","bfee7013-b4f7-4098-b31e-f4f8a5adb5e0.methylation_array.sesame.level3betas.txt","TCGA-Q2-A5QZ","TCGA-Q2-A5QZ-01A",428,"--","Alive","ee56ebc9-7e0b-4b61-bbc7-9ff015f885a4","Primary Tumor",3
+"248","c2ac517a-0782-4997-8b6b-084ad842d457.methylation_array.sesame.level3betas.txt","TCGA-BQ-5875","TCGA-BQ-5875-01A",2639,"--","Alive","bdadc241-04ae-4871-bc3a-c32c08ceafe9","Primary Tumor",3
+"252","c72e8fa8-a352-42b4-9525-65e77f18509a.methylation_array.sesame.level3betas.txt","TCGA-B1-A654","TCGA-B1-A654-01A",616,"--","Alive","3f826c24-6314-4243-aed8-a0b1a2194612","Primary Tumor",3
+"253","c7a0ee94-87e9-422d-9b27-98ca0c4bf1d3.methylation_array.sesame.level3betas.txt","TCGA-BQ-5883","TCGA-BQ-5883-01A",1242,"--","Alive","c4b53e0a-9401-427f-b9a2-684c09b03068","Solid Tissue Normal",3
+"258","cdcc484f-fd78-42f8-b0ce-29971e5d73e4.methylation_array.sesame.level3betas.txt","TCGA-UZ-A9Q1","TCGA-UZ-A9Q1-01A",1562,"--","Alive","d0928c01-6178-4794-8d67-1624b90209e3","Primary Tumor",3
+"274","de17ebdb-5b5e-4520-864d-d637ff32982a.methylation_array.sesame.level3betas.txt","TCGA-BQ-7053","TCGA-BQ-7053-01A",1516,"--","Alive","47762d02-2447-47cb-9d97-a96652d39d45","Solid Tissue Normal",3
+"282","e4714a92-dfc5-493a-ab2f-1d4a3361c62e.methylation_array.sesame.level3betas.txt","TCGA-2Z-A9J9","TCGA-2Z-A9J9-01A",2294,"--","Alive","963765f8-865e-46f1-9797-692d546cdb08","Primary Tumor",3
+"284","e800fbbe-1248-4366-aaab-d7bd0e3db6e8.methylation_array.sesame.level3betas.txt","TCGA-5P-A9K8","TCGA-5P-A9K8-01A",1309,"--","Alive","13f767fe-758e-472d-b281-2839b11f2460","Primary Tumor",3
+"296","f3890e17-7d71-4613-8afa-13462ccebab5.methylation_array.sesame.level3betas.txt","TCGA-B1-7332","TCGA-B1-7332-01A",1141,"--","Alive","0cab21bf-23e8-40dd-9511-2ecd5b676a87","Primary Tumor",3
+"300","f6fb30c8-809f-4a8d-a703-01aeab144882.methylation_array.sesame.level3betas.txt","TCGA-A4-A5Y0","TCGA-A4-A5Y0-01A",252,"--","Alive","8649de39-d12a-4acb-b90e-34776155f5b5","Primary Tumor",3
+"301","f73ef3c1-5aa1-4791-8f13-db809028a6de.methylation_array.sesame.level3betas.txt","TCGA-GL-7773","TCGA-GL-7773-01A",393,"--","Alive","c8c483fb-32e4-4781-a0b7-0f517defab36","Primary Tumor",3
+"310","ffa187bd-bd14-4a98-b246-d587c1a978c7.methylation_array.sesame.level3betas.txt","TCGA-A4-8312","TCGA-A4-8312-01A",708,"--","Alive","fbfc1c7d-06e8-48db-9172-9d212b3a4742","Primary Tumor",3

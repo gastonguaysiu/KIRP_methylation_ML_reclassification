@@ -1,0 +1,86 @@
+Category,Term,Count,%,P-Value,Benjamini,convergence
+GOTERM_BP_DIRECT,"positive regulation of transcription, DNA-templated",16,10.3,0.00048,0.57,conv_A
+GOTERM_BP_DIRECT,regulation of developmental process,3,1.9,0.002,1,conv_A
+GOTERM_BP_DIRECT,"negative regulation of transcription, DNA-templated",12,7.7,0.0061,1,conv_A
+GOTERM_BP_DIRECT,vasculature development,3,1.9,0.0066,1,conv_A
+GOTERM_BP_DIRECT,cation transmembrane transport,4,2.6,0.0071,1,conv_A
+GOTERM_BP_DIRECT,neuron projection development,5,3.2,0.018,1,conv_A
+GOTERM_BP_DIRECT,negative regulation of apoptotic process,10,6.4,0.022,1,conv_A
+GOTERM_BP_DIRECT,positive regulation of transcription from RNA polymerase II promoter,17,10.9,0.024,1,conv_A
+GOTERM_BP_DIRECT,peptidyl-tyrosine phosphorylation,5,3.2,0.025,1,conv_A
+GOTERM_BP_DIRECT,positive regulation of excitatory postsynaptic potential,3,1.9,0.025,1,conv_A
+GOTERM_BP_DIRECT,establishment of cell polarity,3,1.9,0.03,1,conv_A
+GOTERM_BP_DIRECT,positive regulation of ureteric bud formation,2,1.3,0.03,1,conv_A
+GOTERM_BP_DIRECT,gene expression,4,2.6,0.032,1,conv_A
+GOTERM_BP_DIRECT,positive regulation of MAPK cascade,5,3.2,0.036,1,conv_A
+GOTERM_BP_DIRECT,histone H3-K23 acetylation,2,1.3,0.038,1,conv_A
+GOTERM_BP_DIRECT,regulation of transcription from RNA polymerase II promoter,21,13.5,0.042,1,conv_A
+GOTERM_BP_DIRECT,apoptotic process,10,6.4,0.046,1,conv_A
+GOTERM_BP_DIRECT,monocyte chemotaxis,3,1.9,0.047,1,conv_A
+GOTERM_BP_DIRECT,phosphatidylinositol biosynthetic process,3,1.9,0.049,1,conv_A
+GOTERM_BP_DIRECT,protein autophosphorylation,5,3.2,0.052,1,conv_A
+GOTERM_BP_DIRECT,thymus development,3,1.9,0.053,1,conv_A
+GOTERM_BP_DIRECT,pre-replicative complex assembly involved in nuclear cell cycle DNA replication,2,1.3,0.06,1,conv_A
+GOTERM_BP_DIRECT,positive regulation of epithelial cell differentiation,2,1.3,0.06,1,conv_A
+GOTERM_BP_DIRECT,brain development,6,3.8,0.061,1,conv_A
+GOTERM_BP_DIRECT,positive regulation of cell proliferation,9,5.8,0.065,1,conv_A
+GOTERM_BP_DIRECT,pyramidal neuron development,2,1.3,0.067,1,conv_A
+GOTERM_BP_DIRECT,ventral spinal cord development,2,1.3,0.067,1,conv_A
+GOTERM_BP_DIRECT,positive regulation of T-helper 2 cell cytokine production,2,1.3,0.067,1,conv_A
+GOTERM_BP_DIRECT,cAMP catabolic process,2,1.3,0.067,1,conv_A
+GOTERM_BP_DIRECT,negative regulation of vascular smooth muscle cell differentiation,2,1.3,0.067,1,conv_A
+GOTERM_BP_DIRECT,positive regulation of cysteine-type endopeptidase activity,2,1.3,0.074,1,conv_A
+GOTERM_BP_DIRECT,regulation of hemopoiesis,2,1.3,0.082,1,conv_A
+GOTERM_BP_DIRECT,positive regulation of interleukin-5 production,2,1.3,0.082,1,conv_A
+GOTERM_BP_DIRECT,heterochromatin organization,2,1.3,0.082,1,conv_A
+GOTERM_BP_DIRECT,organ induction,2,1.3,0.082,1,conv_A
+GOTERM_BP_DIRECT,multicellular organism development,5,3.2,0.087,1,conv_A
+GOTERM_BP_DIRECT,double-strand break repair via break-induced replication,2,1.3,0.089,1,conv_A
+GOTERM_BP_DIRECT,heart development,5,3.2,0.09,1,conv_A
+GOTERM_BP_DIRECT,cell projection organization,3,1.9,0.09,1,conv_A
+GOTERM_CC_DIRECT,cytosol,60,38.5,0.00081,0.17,conv_A
+GOTERM_CC_DIRECT,nucleus,63,40.4,0.0014,0.17,conv_A
+GOTERM_CC_DIRECT,nucleoplasm,45,28.8,0.0024,0.17,conv_A
+GOTERM_CC_DIRECT,endosome,9,5.8,0.0026,0.17,conv_A
+GOTERM_CC_DIRECT,chromatin,16,10.3,0.012,0.65,conv_A
+GOTERM_CC_DIRECT,receptor complex,6,3.8,0.023,1,conv_A
+GOTERM_CC_DIRECT,membrane,39,25,0.026,1,conv_A
+GOTERM_CC_DIRECT,integral component of plasma membrane,18,11.5,0.034,1,conv_A
+GOTERM_CC_DIRECT,actin cytoskeleton,6,3.8,0.043,1,conv_A
+GOTERM_CC_DIRECT,Golgi membrane,10,6.4,0.061,1,conv_A
+GOTERM_CC_DIRECT,bleb,2,1.3,0.065,1,conv_A
+GOTERM_CC_DIRECT,MCM complex,2,1.3,0.065,1,conv_A
+GOTERM_CC_DIRECT,MOZ/MORF histone acetyltransferase complex,2,1.3,0.065,1,conv_A
+GOTERM_CC_DIRECT,apical cortex,2,1.3,0.078,1,conv_A
+GOTERM_CC_DIRECT,CMG complex,2,1.3,0.078,1,conv_A
+GOTERM_CC_DIRECT,late endosome membrane,4,2.6,0.085,1,conv_A
+GOTERM_CC_DIRECT,plasma membrane,48,30.8,0.089,1,conv_A
+GOTERM_MF_DIRECT,protein binding,118,75.6,0.0025,0.91,conv_A
+GOTERM_MF_DIRECT,protein tyrosine kinase activity,5,3.2,0.013,1,conv_A
+GOTERM_MF_DIRECT,"transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific binding",10,6.4,0.015,1,conv_A
+GOTERM_MF_DIRECT,ubiquitin protein ligase binding,7,4.5,0.037,1,conv_A
+GOTERM_MF_DIRECT,DNA binding,18,11.5,0.038,1,conv_A
+GOTERM_MF_DIRECT,ATP binding,20,12.8,0.038,1,conv_A
+GOTERM_MF_DIRECT,metal ion binding,30,19.2,0.051,1,conv_A
+GOTERM_MF_DIRECT,protein tyrosine phosphatase activity,4,2.6,0.054,1,conv_A
+GOTERM_MF_DIRECT,vascular endothelial growth factor-activated receptor activity,2,1.3,0.062,1,conv_A
+GOTERM_MF_DIRECT,protein homodimerization activity,11,7.1,0.063,1,conv_A
+GOTERM_MF_DIRECT,transmembrane receptor protein tyrosine kinase activity,4,2.6,0.066,1,conv_A
+GOTERM_MF_DIRECT,acid phosphatase activity,2,1.3,0.07,1,conv_A
+GOTERM_MF_DIRECT,"ATPase activity, coupled to transmembrane movement of substances",3,1.9,0.076,1,conv_A
+GOTERM_MF_DIRECT,histone methyltransferase activity (H3-K9 specific),2,1.3,0.077,1,conv_A
+GOTERM_MF_DIRECT,protein kinase activity,7,4.5,0.084,1,conv_A
+GOTERM_MF_DIRECT,histone acetyltransferase activity (H4-K8 specific),2,1.3,0.084,1,conv_A
+GOTERM_MF_DIRECT,histone acetyltransferase activity (H4-K5 specific),2,1.3,0.084,1,conv_A
+GOTERM_MF_DIRECT,histone acetyltransferase activity (H4-K12 specific),2,1.3,0.092,1,conv_A
+GOTERM_MF_DIRECT,identical protein binding,20,12.8,0.093,1,conv_A
+GOTERM_MF_DIRECT,MAP kinase tyrosine/serine/threonine phosphatase activity,2,1.3,0.099,1,conv_A
+GOTERM_MF_DIRECT,glycine binding,2,1.3,0.099,1,conv_A
+GOTERM_MF_DIRECT,insulin-like growth factor I binding,2,1.3,0.099,1,conv_A
+GOTERM_MF_DIRECT,high-density lipoprotein particle binding,2,1.3,0.099,1,conv_A
+KEGG_PATHWAY,Rap1 signaling pathway,6,3.8,0.037,1,conv_A
+KEGG_PATHWAY,Metabolic pathways,21,13.5,0.04,1,conv_A
+KEGG_PATHWAY,MAPK signaling pathway,7,4.5,0.044,1,conv_A
+KEGG_PATHWAY,Endocytosis,6,3.8,0.069,1,conv_A
+KEGG_PATHWAY,PI3K-Akt signaling pathway,7,4.5,0.09,1,conv_A
+KEGG_PATHWAY,Focal adhesion,5,3.2,0.1,1,conv_A

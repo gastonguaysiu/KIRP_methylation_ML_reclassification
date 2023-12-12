@@ -1,0 +1,9 @@
+Category,Term,Count,%,P-Value,Benjamini,convergence
+GOTERM_BP_DIRECT,response to drug,3,16.7,0.027,1,conv_C
+GOTERM_BP_DIRECT,ovarian follicle development,2,11.1,0.038,1,conv_C
+GOTERM_BP_DIRECT,positive regulation of gene expression,3,16.7,0.077,1,conv_C
+GOTERM_BP_DIRECT,positive regulation of transcription from RNA polymerase II promoter,4,22.2,0.086,1,conv_C
+GOTERM_MF_DIRECT,hormone activity,3,16.7,0.0037,0.23,conv_C
+GOTERM_MF_DIRECT,identical protein binding,6,33.3,0.012,0.35,conv_C
+GOTERM_MF_DIRECT,structural constituent of cytoskeleton,2,11.1,0.087,1,conv_C
+KEGG_PATHWAY,TGF-beta signaling pathway,2,11.1,0.089,1,conv_C
