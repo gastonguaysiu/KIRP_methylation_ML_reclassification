@@ -1,0 +1,13 @@
+Category,Term,Count,%,P-Value,Benjamini
+GOTERM_BP_DIRECT,"negative regulation of transcription, DNA-templated",5,22.7,2.80E-03,4.20E-01
+GOTERM_BP_DIRECT,positive regulation of transcription from RNA polymerase II promoter,5,22.7,3.30E-02,1.00E+00
+GOTERM_BP_DIRECT,"regulation of transcription, DNA-templated",4,18.2,7.80E-02,1.00E+00
+GOTERM_BP_DIRECT,regulation of transcription from RNA polymerase II promoter,5,22.7,9.70E-02,1.00E+00
+GOTERM_CC_DIRECT,nucleus,14,63.6,9.60E-04,5.50E-02
+GOTERM_CC_DIRECT,nucleoplasm,10,45.5,7.70E-03,2.20E-01
+GOTERM_CC_DIRECT,nuclear speck,3,13.6,6.50E-02,1.00E+00
+GOTERM_MF_DIRECT,RNA polymerase II core promoter proximal region sequence-specific DNA binding,6,27.3,7.30E-03,5.80E-01
+GOTERM_MF_DIRECT,metal ion binding,8,36.4,1.60E-02,6.50E-01
+GOTERM_MF_DIRECT,protein binding,18,81.8,6.10E-02,1.00E+00
+GOTERM_MF_DIRECT,"transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific binding",3,13.6,9.00E-02,1.00E+00
+KEGG_PATHWAY,Lysine degradation,2,9.1,6.00E-02,1.00E+00
