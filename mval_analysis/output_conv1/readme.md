@@ -1,29 +1,34 @@
-
-The following files are an in-depth analysis of the results from the first convergence of the ML algorithm. Although the results are interesting in their own right, a better display of this framework's potential is the comparison between the e0 and opt convergences.
- 
- - em_probes: this folder contains information for the ML-determined biomarkers
-
- - cl1, cl2, cl3: these folders contain the lists of CpG-associated genes for each of the
+**Machine Learning Analysis Results README**
 
 
- - filenames.csv, kirp_2018_clinical_data.tsv: these files are used for input as analysis.
- - em_see.csv: is an updating file representing the optimum subset of the CpG site to use in the clustering.
+**Overview**
+This repository contains the results from the first convergence of a Machine Learning (ML) algorithm, focusing on analyzing CpG-associated genes and ML-determined biomarkers. Although the results show potential, a more apt analysis can be made when comparing the initial (e0) and optimized (opt) convergences, highlighting the framework's potential; as such, I will not discuss the results of this subfolder.
 
- - na_best.csv, nb_best: represent the current best scores for the subset of the CpG site used in the k-means clustering.
- - clinical_cluster_data.csv: this averages out the clinical data for each cluster
- - stat_summary.csv: contains the average methylated beta values for all the analyzed CpG sites for each k-means organized tumour cluster and the average beta value associated with the normal tissue samples. The table also contains the standard deviation, p-value, and p-adjusted value for each site
- - sig_meth_DE.csv: contains all the significantly differentially methylated CpG sites within the gene promoter regions. Please note that this is not the same subset of CpG sites associated with the biomarkers used to organize the different clusters into the optimal groupings
- - notes2.csv: contains the basic clinical information and grouping information associated with each sample
- - simp_heat2.csv: contains the average beta values of each CpG site within the promoter region that was significantly differentially methylated.
+**Contents**
 
-heatmap.pdf: contains a heatmap for the ln(beta) for all the CpG sites for each sample, with annotations to indicate the grouping of which each sample belongs to
-simp_heat.pdf: contains a heatmap for the ln(beta) for all the CpG sites that are averaged out according to the clustering/grouping
-simp_heat2.pdf: contains a heatmap for the ln(beta) for the biomarker CpG sites that are averaged out according to the clustering/grouping
-elbow1.pdf: elbow graph that displays the ideal number of groups/cluster for the biomarker CpG sites
-km_survival.pdf: this is the KM survival plot for the clusters
-Screenshot from 2023-02-01 14-07-08.png
+Folders:
 
-sex.png: sex distribution for each cluster
-fga.png: boxplot distribution of the fraction of genome altered group based on each cluster
+- em_probes: Contains information on ML-determined biomarkers.
+- cl1, cl2, cl3: Each folder holds lists of CpG-associated genes for respective clusters.
 
+Files:
 
+ - filenames.csv, kirp_2018_clinical_data.tsv: Used as input files for the analysis.
+ - em_see.csv: An updating file representing the optimal subset of CpG sites for clustering.
+ - na_best.csv, nb_best.csv: Current best scores for the subset of CpG sites used in k-means clustering.
+ - clinical_cluster_data.csv: Averages clinical data for each cluster.
+ - stat_summary.csv: Contains average methylated beta values, standard deviation, p-value, and p-adjusted value for each CpG site in tumor clusters and normal tissue samples.
+ - sig_meth_DE.csv: Lists significantly differentially methylated CpG sites within gene promoter regions. Notably, this subset differs from those associated with the biomarkers for cluster organization.
+ - notes2.csv: Basic clinical information and grouping data for each sample.
+ - simp_heat2.csv: Average beta values for each significantly differentially methylated CpG site within promoter regions.
+
+Visualizations:
+
+ - heatmap.pdf: Heatmap displaying ln(beta) for all CpG sites per sample, with annotations for sample grouping.
+ - simp_heat.pdf: Heatmap of ln(beta) for CpG sites averaged according to clustering/grouping.
+ - simp_heat2.pdf: Heatmap of ln(beta) for biomarker CpG sites averaged according to clustering/grouping.
+ - elbow1.pdf: Elbow graph showing the ideal number of groups/clusters for biomarker CpG sites.
+ - km_survival.pdf: Kaplan-Meier survival plot for the clusters.
+ - Screenshot from 2023-02-01 14-07-08.png
+ - sex.png: Sex distribution across each cluster.
+ - fga.png: Boxplot showing the distribution of the altered genome fraction based on each cluster.
