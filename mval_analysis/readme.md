@@ -10,6 +10,6 @@ Gender Distribution Shift in Clusters: While many clinical features remained sim
 
 Tumor Stage Distribution: Tumor staging, crucial for predicting cancer prognosis and survival, varies from T1 (localized cancer) to T3 (advanced or metastatic cancer). The distribution of tumour stages within each cluster changed after applying the EM algorithm. Notably, the group with the best survival outcome saw an increase in the ratio of patients in stage T1, rising from 68.18% to 74.07%. Conversely, in the worst outcome group, there was a shift away from stage T2, with the T2 ratio decreasing from 66.67% to 36.36%, T1 from increasing 0% to 18.18%, and T3 increasing from 33.33% to 45.45%. This shift more accurately represents the distribution seen in the varied tumour stages of the patients who  succumb to cancer.
 
-**Impact on KIRP relevant gene methylation**
+**Impact on KIRP-relevant gene methylation**
 
 Categorizing the patient broadly based on their methylation profiles indicated that differentially methylated CpG-associated genes are linked with different survival outcomes. As one might expect, the patients with the worst survival outcome had the largest number of differentially methylated CpG-associated genes linked with KIRP genes. After estimation maximation to refine CpG sites to an optimized subset to categorize patients, the differentially methylated profiles show a stronger correlation with the known KIRP genes (refer to script iso_genes.R creates the data table information).
