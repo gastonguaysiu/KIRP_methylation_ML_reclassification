@@ -13,6 +13,3 @@ Description of files:
 - used_opt.csv: This is a list of all the CpG sites that could be used for k-means clustering in the ML algorithm; the e0 = 1 rows are the biomarkers used in the optimized ML algorithm
 
 - dot_plot.R: some preliminary code to visualize the biomarkers in reference to the other CpG sites, meant to answer the question, are these sites different by p-value, or change compared to the control or the other clusters
-
-missing_files.txt
-
