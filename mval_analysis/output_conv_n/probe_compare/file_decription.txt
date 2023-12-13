@@ -1,22 +1,22 @@
-description of files:
+Description of files:
 
- - mval_opt.csv: this file contains a details of CpG sites biomarkers used in the optimized clustering of the samples. Rows are the probes, and columns are details such as average M value, standard deviation, p value, and adjusted p-value.  
- - mval_opt2.csv: this is just a reduce list of CpG site biomarker details. this file exclude CpG site with p-values that are too high or don't have enough change between the tumour grouping and control. 
- - mval_optB.csv: table that contains less rows, instead of having a row for each grouping/cluster, the 
+ - mval_opt.csv: This file contains details of CpG sites' biomarkers used in the optimized clustering of the samples. Rows are the probes; columns include average M value, standard deviation, p-value, and adjusted p-value.  
+ - mval_opt2.csv: this is just a reduced list of CpG site biomarker details. This file excludes CpG sites with p-values that are too high or don't have enough change between the tumour grouping and control. 
+ - mval_optB.csv: a table that contains fewer rows, instead of having a row for each grouping/cluster, the 
 
 
- - mval_opt_sum.csv: this is the the table contains average M value, standard deviation, p value, and adjusted p-value for each cluster on all the CpG sites analyzed, ran using the optimized biomarkers for k-means clustering    
- - mval_sum.csv: this containg the same information as mval_opt.csv, but includes the information of the biomarkers used when a different random seed for the ML algorithm was used --- this file is not used to build any figure
+ - mval_opt_sum.csv: this is the the table that contains the average M value, standard deviation, p-value, and adjusted p-value for each cluster on all the CpG sites analyzed, run using the optimized biomarkers for k-means clustering    
+ - mval_sum.csv: this contains the same information as mval_opt.csv but includes the information of the biomarkers used when a different random seed for the ML algorithm was used --- this file is not used to build any figure
 
 - bval_opt2.csv
 - bval_opt.csv
 - bval_sum2.csv
 - bval_sum.csv
-Contains the same information as the mval* file, but used the beta values instead
+It contains the same information as the mval* file, but uses the beta values instead
 
-used_opt.csv: this is a list of all the CpG site that could be used for k-menas clustering in the ML algorithm, the e0 = 1 rows are the biomarkers used in the optimized ML algorithm
+used_opt.csv: This is a list of all the CpG sites that could be used for k-means clustering in the ML algorithm; the e0 = 1 rows are the biomarkers used in the optimized ML algorithm
 
-- dot_plot.R: some prelimenary code to visulize the biomarkers in reference to the other CpG sites, meant to answer the question, are these site different by p-value, or change compare to the control or to the orther clusters
+- dot_plot.R: some preliminary code to visualize the biomarkers in reference to the other CpG sites, meant to answer the question, are these sites different by p-value, or change compared to the control or the orther clusters
 
 missing_files.txt
 file_decription.txt 
