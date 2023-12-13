@@ -2,4 +2,4 @@ Each of the enrichment*.csv files contains a table of the GO and KEGG informatio
 
 The start.csv file contains the combined information of all the other tables and an additional column to indicate the source.
 
-**bubble2.R**: builds a bubble plot for the GO and KEGG enrichment analysis using the start.csv file. The script is designed to be run in Rstudio, and the visualizations need to be exported manually.
+**bubble2.R**: builds a bubble plot for the GO and KEGG enrichment analysis using the start.csv file. The script is designed to run in Rstudio, and the visualizations must be exported manually.
