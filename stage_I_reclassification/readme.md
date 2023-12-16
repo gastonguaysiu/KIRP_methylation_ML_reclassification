@@ -46,7 +46,7 @@ F=D−(l/α)
 
 Where 'D' is the death count, 'l' is days since lc_from_IPDD, and 'α' is the median survival time, identifying clusters with the lowest survival rates. Conversely, the R, given by
 
-R=(D/L)×(d/β),
+R=(D/L)×(d/β)
 
 where 'D' is the death count, 'L' is the sample size, 'd' survival days, and 'β' is the median lc_from_IPDD, predicts the best survival outcomes. Zero is avoided in calculations by assigning 0.01 to 'D' and 'd' when no deaths are recorded.
 The algorithm's efficiency decreases with more data, so we focus on fewer significant CpG probes. A set of probes is optimal if smaller yet achieves the same score, balancing computational efficiency with accuracy.
