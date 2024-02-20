@@ -1,0 +1,1 @@
+em_see1.csv to em_see10.csv contian the identities of the convergent CpG site for each cycle/phahse of the ML algorithm. The see2.csv file contain the combination of all the previous convergences (652 CpG sites), which was used later on to build the em_see.csv files used in the final predictive phase of the ML algortihm.
