@@ -1,0 +1,31 @@
+"","miRNA_filename","Case_ID","Sample_ID","Sample_Type","age_at_index","days_to_last_follow_up","days_to_death","ethnicity","gender","race","vital_status","age_at_diagnosis","cluster"
+"1","0cccb0bb-a1d6-4e5e-b881-1afec4b3f780.mirbase21.mirnas.quantification.txt","TCGA-BQ-5892","TCGA-BQ-5892-01A","Primary Tumor","51",364,NA,"not hispanic or latino","male","white","Alive","18785",1
+"2","2021e1f3-7def-40af-845e-03d48df9b196.mirbase21.mirnas.quantification.txt","TCGA-A4-7288","TCGA-A4-7288-01A","Primary Tumor","71",1857,NA,"not hispanic or latino","female","white","Alive","26268",2
+"3","2df2ed2f-1252-4d59-81a8-d838fe65e94c.mirbase21.mirnas.quantification.txt","TCGA-DZ-6133","TCGA-DZ-6133-11A","Solid Tissue Normal","66",NA,1557,"not reported","female","white","Dead","24311",1
+"4","3005a076-6c8a-4964-8478-4648ddbf0f76.mirbase21.mirnas.quantification.txt","TCGA-KV-A74V","TCGA-KV-A74V-01A","Primary Tumor","40",347,NA,"not hispanic or latino","male","white","Alive","14834",2
+"5","33656134-ab17-4afb-a7fe-dea3b0fe84e1.mirbase21.mirnas.quantification.txt","TCGA-SX-A71V","TCGA-SX-A71V-01A","Primary Tumor","80",876,NA,"not hispanic or latino","male","white","Alive","29332",2
+"6","44865181-7e66-49a1-ab43-deaf948e3b51.mirbase21.mirnas.quantification.txt","TCGA-BQ-7044","TCGA-BQ-7044-01A","Primary Tumor","73",3760,NA,"not reported","male","white","Alive","26831",2
+"7","46b48422-a17a-4896-bb49-134e24ce0789.mirbase21.mirnas.quantification.txt","TCGA-5P-A9K8","TCGA-5P-A9K8-01A","Primary Tumor","51",1309,NA,"not hispanic or latino","female","white","Alive","18880",3
+"8","4ae33538-0754-4a8f-9130-acd4cbef9f37.mirbase21.mirnas.quantification.txt","TCGA-2Z-A9J3","TCGA-2Z-A9J3-01A","Primary Tumor","67",NA,1771,"not hispanic or latino","male","white","Dead","24626",2
+"9","51cc76ea-f8c0-4ef4-8db1-eb337d15151b.mirbase21.mirnas.quantification.txt","TCGA-MH-A855","TCGA-MH-A855-01A","Primary Tumor","52",369,NA,"not hispanic or latino","female","black or african american","Alive","19029",1
+"10","53123980-e745-4935-a3fc-d770171f40ff.mirbase21.mirnas.quantification.txt","TCGA-G7-7502","TCGA-G7-7502-01A","Primary Tumor","83",786,NA,"not hispanic or latino","male","white","Alive","30346",1
+"11","531c95b0-f244-4544-a2e5-6752157c6a18.mirbase21.mirnas.quantification.txt","TCGA-BQ-5888","TCGA-BQ-5888-01A","Primary Tumor","74",403,NA,"not reported","female","white","Alive","27346",1
+"12","64e293a4-adcb-4b05-8a9d-753e5174351c.mirbase21.mirnas.quantification.txt","TCGA-EV-5902","TCGA-EV-5902-01A","Primary Tumor","58",578,NA,"not reported","male","white","Alive","21344",2
+"13","926c82cd-1748-4c2b-ac7d-00676f09c19a.mirbase21.mirnas.quantification.txt","TCGA-A4-A5XZ","TCGA-A4-A5XZ-01A","Primary Tumor","65",479,NA,"not hispanic or latino","female","white","Alive","24006",2
+"14","98cc2ce2-3772-41ff-95c5-e8fa48a92a11.mirbase21.mirnas.quantification.txt","TCGA-BQ-5875","TCGA-BQ-5875-01A","Primary Tumor","66",2639,NA,"not reported","female","white","Alive","24153",2
+"15","9921b569-d076-4182-98a0-3da2ee3c8404.mirbase21.mirnas.quantification.txt","TCGA-2Z-A9J1","TCGA-2Z-A9J1-01A","Primary Tumor","71",2298,NA,"not hispanic or latino","male","white","Alive","26244",2
+"16","9b672f20-d615-45d4-ae8b-9d8d8510e021.mirbase21.mirnas.quantification.txt","TCGA-2K-A9WE","TCGA-2K-A9WE-01A","Primary Tumor","53",214,NA,"not hispanic or latino","male","white","Alive","19603",1
+"17","9b877d52-83f4-469a-8183-5dbd8b21b4aa.mirbase21.mirnas.quantification.txt","TCGA-BQ-7048","TCGA-BQ-7048-01A","Primary Tumor","64",2839,NA,"not hispanic or latino","male","white","Alive","23460",1
+"18","9dee23a1-e616-47c7-83b5-5f6cef50b5cb.mirbase21.mirnas.quantification.txt","TCGA-5P-A9JU","TCGA-5P-A9JU-01A","Primary Tumor","81",373,NA,"not hispanic or latino","male","white","Alive","29594",2
+"19","a12266c8-188d-41e0-8701-83e0c042fced.mirbase21.mirnas.quantification.txt","TCGA-P4-A5E8","TCGA-P4-A5E8-01A","Primary Tumor","57",NA,1306,"not hispanic or latino","male","white","Dead","21132",3
+"20","a1422375-90ae-4b9d-b24b-1ef29d37337f.mirbase21.mirnas.quantification.txt","TCGA-A4-7585","TCGA-A4-7585-01A","Primary Tumor","67",NA,1070,"not hispanic or latino","male","white","Dead","24778",1
+"21","ad5019a7-4688-41e4-bbed-33577294c4c4.mirbase21.mirnas.quantification.txt","TCGA-2Z-A9J5","TCGA-2Z-A9J5-01A","Primary Tumor","80",3050,NA,"not hispanic or latino","male","white","Alive","29275",1
+"22","b1f4877d-7cf5-41dc-bd78-d5b684724064.mirbase21.mirnas.quantification.txt","TCGA-UN-AAZ9","TCGA-UN-AAZ9-01A","Primary Tumor","76",548,NA,"not hispanic or latino","female","black or african american","Alive","27851",2
+"23","b954734d-ab78-41f0-aec7-c4a33846872a.mirbase21.mirnas.quantification.txt","TCGA-UZ-A9PO","TCGA-UZ-A9PO-01A","Primary Tumor","80",1911,NA,"not hispanic or latino","male","white","Alive","29220",1
+"24","bd99261a-dac7-4253-9094-7cc87b08e420.mirbase21.mirnas.quantification.txt","TCGA-IZ-8196","TCGA-IZ-8196-01A","Primary Tumor","50",649,NA,"not hispanic or latino","male","white","Alive","18540",2
+"25","c9a1ef33-d29c-4532-8c6c-e7579b5db22f.mirbase21.mirnas.quantification.txt","TCGA-SX-A7SU","TCGA-SX-A7SU-01A","Primary Tumor","47",1331,NA,"hispanic or latino","male","not reported","Alive","17349",2
+"26","d4362f9a-1dc6-45f3-abd1-c5dbbd4588ec.mirbase21.mirnas.quantification.txt","TCGA-2Z-A9JK","TCGA-2Z-A9JK-01A","Primary Tumor","50",1186,NA,"not hispanic or latino","male","white","Alive","18540",1
+"27","e6061d05-31f8-406f-ae00-851c2c9c4bb6.mirbase21.mirnas.quantification.txt","TCGA-BQ-5884","TCGA-BQ-5884-01A","Primary Tumor","59",792,NA,"not reported","female","black or african american","Alive","21730",1
+"28","e8d3b9df-b13c-4103-843d-99880e06203a.mirbase21.mirnas.quantification.txt","TCGA-A4-7997","TCGA-A4-7997-01A","Primary Tumor","67",927,NA,"not hispanic or latino","male","white","Alive","24486",2
+"29","f01cc327-2aaf-45b9-90af-d4e252ac62ee.mirbase21.mirnas.quantification.txt","TCGA-WN-A9G9","TCGA-WN-A9G9-01A","Primary Tumor","55",791,NA,"not hispanic or latino","male","white","Alive","'--",1
+"30","fc6a60da-2d5f-4b88-96ba-91e9b7f94729.mirbase21.mirnas.quantification.txt","TCGA-UZ-A9PS","TCGA-UZ-A9PS-05A","Additional - New Primary","62",2167,NA,"not hispanic or latino","female","black or african american","Alive","22646",1
