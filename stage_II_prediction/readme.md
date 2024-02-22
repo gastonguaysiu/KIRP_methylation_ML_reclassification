@@ -1,7 +1,11 @@
 # Hybrid Predictive Model Implementation
 
 ## Overview
-This document details the implementation of an hybrid predictive model that employs machine learning (ML) techniques to analyze differential methylation data. The model's core revolves around the strategic analysis of CpG probe sites for predictive accuracy in patient survival outcomes by implementing a combination of estimation-mazimization and k-means clustering.
+This document details the implementation of an hybrid predictive model that employs machine learning (ML) techniques to analyze differential methylation data. The model's core revolves around the strategic analysis of CpG probe sites for predictive accuracy in patient survival outcomes by implementing a combination of estimation-maximization and k-means clustering.
+
+
+## Normalization or miRNA and RNAseq data
+A log transformation is applied to the TPM values to mitigate the influence of highly expressed genes, adding a small constant (0.0001) to avoid undefined values for zeros. This step makes the data more normally distributed, a common requirement for many statistical analyses. Then, the data is centred and scaled (z-score normalization) using the formula (x - mean(x)) / sd(x) applied row-wise. This step ensures that each gene's expression is measured in terms of its deviation from its mean expression level, making comparisons across genes more meaningful. Normalization is performed on a per-transcript/miRNA basis across all samples.
 
 ## Data Handling
 The dataset is partitioned into two segments:
