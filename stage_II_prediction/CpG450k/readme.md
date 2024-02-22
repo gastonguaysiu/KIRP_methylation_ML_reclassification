@@ -1,13 +1,13 @@
 # Algorithmic Process Overview
 
-This repository contains a series of R scripts designed to execute a multi-phase algorithmic process aimed at classifying a validation dataset based on centroid positions determined through a series of convergences and an EM K-means cycle. Below is a detailed explanation of each script and its role in the process.
+This repository houses a sequence of R scripts developed for a multi-phase algorithmic process for classifying a validation dataset. This is achieved by determining centroid positions based on convergences and an EM K-means cycle. An important preprocessing step in our approach is normalizing beta values by transforming them into m-values before applying the machine learning algorithm. Below is a comprehensive explanation of each script and its role in the overall process.
 
 ## Scripts Description
 
 ### Phase 1 to 3: Convergence Series Execution
 
 - **Script Name:** `alt_CpG_f1.R`
-- **Description:** This script is responsible for executing phases 1 through 3 of the algorithmic process. It systematically runs all 10 convergences in series, setting the foundation for the centroid determination in phase 4. Each convergence iterates through a predefined set of operations to refine the dataset's classification parameters progressively.
+- **Description:** This script executes phases 1 through 3 of the algorithmic process. It systematically runs all 10 convergences in series, setting the foundation for the centroid determination in phase 4. Each convergence iterates through a predefined set of operations to progressively refine the dataset's classification parameters.
 
 ### Phase 4: Centroid Position Determination
 
@@ -32,7 +32,3 @@ This repository contains a series of R scripts designed to execute a multi-phase
    - Run `alt_CpG_f1.R` for phases 1 through 3.
    - Proceed with `alt_fixed_position.R` for phase 4.
    - (Optional) Run `alt_opt_CpG_f1.R` to observe the attempted dimensionality reduction and its effects.
-
-## Dependencies
-
-- List of R packages and any other dependencies required to run the scripts.
