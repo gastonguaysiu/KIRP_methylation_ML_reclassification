@@ -1,7 +1,7 @@
 # Hybrid Predictive Model Implementation
 
 ## Overview
-This document details the implementation of a hybrid predictive model that employs machine learning (ML) techniques to analyze differential methylation data. The model's core revolves around the strategic analysis of CpG probe sites for predictive accuracy in patient survival outcomes by implementing a combination of estimation-maximization and k-means clustering.
+This document details implementing a hybrid predictive model that employs machine learning (ML) techniques to analyze differential methylation data. The model's core revolves around the strategic analysis of CpG probe sites for predictive accuracy in patient survival outcomes by implementing a combination of estimation-maximization and k-means clustering.
 
 
 ## Normalization of miRNA and RNAseq data
@@ -14,6 +14,9 @@ The dataset is partitioned into two segments:
 
 ## Predictive ML Workflow
 The workflow is segmented into phases, each designed to refine the model's accuracy through a series of iterations. A detailed flowchart (Figure 2) illustrates this process.
+
+![flowchar](https://github.com/gastonguaysiu/KIRP/blob/main/stage_I_reclassification/ML_flow_KIRP.png?raw=true)
+
 
 ### Phase 1: Initialization (e0)
 - Utilizes all available probes to form a comprehensive (probe ✕ sample) matrix, ensuring no missing values across samples.
