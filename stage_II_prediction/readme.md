@@ -15,8 +15,7 @@ The dataset is partitioned into two segments:
 ## Predictive ML Workflow
 The workflow is segmented into phases, each designed to refine the model's accuracy through a series of iterations. A detailed flowchart (Figure 2) illustrates this process.
 
-![flowchar](https://github.com/gastonguaysiu/KIRP/blob/main/stage_I_reclassification/ML_flow_KIRP.png?raw=true)
-
+![flowchar](https://github.com/gastonguaysiu/KIRP/blob/main/stage_II_prediction/ML_lock.png?raw=true)
 
 ### Phase 1: Initialization (e0)
 - Utilizes all available probes to form a comprehensive (probe ✕ sample) matrix, ensuring no missing values across samples.
