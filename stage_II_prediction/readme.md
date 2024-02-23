@@ -5,7 +5,7 @@ This document details implementing a hybrid predictive model that employs machin
 
 
 ## Normalization of miRNA and RNAseq data
-A log transformation is applied to the TPM values to mitigate the influence of highly expressed genes, adding a small constant (0.0001) to avoid undefined values for zeros. This step makes the data more normally distributed, a common requirement for many statistical analyses. Then, the data is centred and scaled (z-score normalization) using the formula (x - mean(x)) / sd(x) applied row-wise. This step ensures that each gene's expression is measured in terms of its deviation from its mean expression level, making comparisons across genes more meaningful. Normalization is performed on a per-transcript/miRNA basis across all samples.
+A log transformation is applied to the TPM or RPM values to mitigate the influence of highly expressed genes, adding a small constant (0.0001) to avoid undefined values for zeros. This step makes the data more normally distributed, a common requirement for many statistical analyses. Then, the data is centred and scaled (z-score normalization) using the formula (x - mean(x)) / sd(x) applied row-wise. This step ensures that each gene's expression is measured in terms of its deviation from its mean expression level, making comparisons across genes more meaningful. Normalization is performed on a per-transcript/miRNA basis across all samples.
 
 ## Data Handling
 The dataset is partitioned into two segments:
