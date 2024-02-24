@@ -22,8 +22,8 @@ The workflow is segmented into phases, each designed to refine the model's accur
 - K-means clustering groups the matrix into distinct populations/clusters based on differential methylation patterns, scored against clinical outcomes to predict survival rates.
 
 ### Phase 2: Estimation Maximization Inner Loop
-- Proceeds with the best probe list from Phase 1, generating trial clones by randomly adding or removing probes to refine the estimation.
-- This dynamic adjustment involves unsupervised K-means clustering, targeting three main groups (k = 3), with the aim of enhancing survival outcome prediction.
+- Proceed with the best probe list from Phase 1, generating trial clones by randomly adding or removing probes to refine the estimation.
+- This dynamic adjustment involves unsupervised K-means clustering, targeting three main groups (k = 3), to enhance survival outcome prediction.
 - Clinical data scoring compares new estimations against previous ones, focusing on accuracy in worst outcome group clustering, optimizing the censored-to-death ratio, and ensuring precise classification into survival groups.
 - The process iterates until a peak in estimation quality is identified, marking the optimal list of probes for segregating survival outcomes in the studied samples.
 
@@ -37,7 +37,7 @@ The workflow is segmented into phases, each designed to refine the model's accur
 - The centroid locations are saved, providing a stable basis for future sample group predictions based on CpG probe analysis.
 
 ## Scoring Metric
-The F1 score to categorize patients into groups with the worst overall survival outcomes, is used for evaluating identifying CpG sites used as hyperparameters. The F1 score is a balance between precision and recall, crucial for handling imbalanced data classes in binary classification problems.
+The F1 score is used to categorize patients into groups with the worst overall survival outcomes to evaluate and identify CpG sites used as hyperparameters. The F1 score balances precision and recall, which is crucial for handling imbalanced data classes in binary classification problems.
 
 ### Calculations
 - **Precision** " = D / (D + (l/α)) "
@@ -47,7 +47,7 @@ The F1 score to categorize patients into groups with the worst overall survival 
 Where:
 - D = Count of patients within the cluster who died due to cancer.
 - l = Number of days counted in lc_from_IPDD.
-- α = Median survival period before patients died of cancer across all patient data.
+- α = Median survival period before cancer deaths across all patient data.
 - σ = Number of known patients that succumbed to cancer in another cluster.
 
 ## Conclusion
