@@ -1,5 +1,0 @@
-## MISSING FILES from opt folder
-
-The file **trainingData.csv** is a comprehensive database for the normalize RNA_seq values associated with all the transcripts from samples from patients used for the training phase. Within the structure of our dataset, the opt_e0 subfolder is the aggregating data from all transcript row convergent sites (previously labelled conv1 through conv10). This process involves unifying their respective data and creating a consolidated dimensionality framework for application in K-means clustering algorithms.
-
-Further refining the process, the opt subfolder emerges as a critical output derived from applying the Expectation-Maximization (EM) algorithm a final time. This step begins with the dimensional framework established in the e0_opt subfolder as its starting point. The primary goal here is to sift through the extensive array of transcripts, selecting a more focused subset. This refined selection is a optimized dimensionality that can be utilized to guide the clustering process in K-means clustering.
