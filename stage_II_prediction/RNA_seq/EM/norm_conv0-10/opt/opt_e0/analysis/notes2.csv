@@ -1,0 +1,31 @@
+"","RNA_seq_filename","Case_ID","Sample_ID","Sample_Type","age_at_index","days_to_last_follow_up","days_to_death","ethnicity","gender","race","vital_status","age_at_diagnosis","cluster"
+"1","01f1cd8f-90da-4f54-9efe-a4ea78a037b7.rna_seq.augmented_star_gene_counts.tsv","TCGA-UN-AAZ9","TCGA-UN-AAZ9-01A","Primary Tumor","76",548,NA,"not hispanic or latino","female","black or african american","Alive","27851",3
+"2","07a5352f-f6ae-42a6-a41c-812c8aa372c9.rna_seq.augmented_star_gene_counts.tsv","TCGA-EV-5902","TCGA-EV-5902-01A","Primary Tumor","58",578,NA,"not reported","male","white","Alive","21344",3
+"3","1f6d184f-9dfa-4f54-87a1-489bbd7d8f6b.rna_seq.augmented_star_gene_counts.tsv","TCGA-2K-A9WE","TCGA-2K-A9WE-01A","Primary Tumor","53",214,NA,"not hispanic or latino","male","white","Alive","19603",3
+"4","27993654-3ca0-4f8b-8346-eef50c2f2a2b.rna_seq.augmented_star_gene_counts.tsv","TCGA-DZ-6133","TCGA-DZ-6133-11A","Solid Tissue Normal","66",NA,1557,"not reported","female","white","Dead","24311",1
+"5","27ad1d7f-df4f-4b47-b8f8-ddf10d44076a.rna_seq.augmented_star_gene_counts.tsv","TCGA-2Z-A9JK","TCGA-2Z-A9JK-01A","Primary Tumor","50",1186,NA,"not hispanic or latino","male","white","Alive","18540",1
+"6","45757ee8-9ee6-4b06-96b3-92c4ed342025.rna_seq.augmented_star_gene_counts.tsv","TCGA-BQ-5875","TCGA-BQ-5875-01A","Primary Tumor","66",2639,NA,"not reported","female","white","Alive","24153",2
+"7","4cfdbd36-72ce-4c3e-966b-34f351ef4421.rna_seq.augmented_star_gene_counts.tsv","TCGA-SX-A71V","TCGA-SX-A71V-01A","Primary Tumor","80",876,NA,"not hispanic or latino","male","white","Alive","29332",3
+"8","55593f28-69c1-43fe-bdd1-b846b321ccb0.rna_seq.augmented_star_gene_counts.tsv","TCGA-BQ-7044","TCGA-BQ-7044-01A","Primary Tumor","73",3760,NA,"not reported","male","white","Alive","26831",2
+"9","5d99eb47-9acf-4d75-a730-2f7c6c1368c9.rna_seq.augmented_star_gene_counts.tsv","TCGA-G7-7502","TCGA-G7-7502-01A","Primary Tumor","83",786,NA,"not hispanic or latino","male","white","Alive","30346",3
+"10","65eac442-936f-47e2-987b-a9a40b3d33fa.rna_seq.augmented_star_gene_counts.tsv","TCGA-KV-A74V","TCGA-KV-A74V-01A","Primary Tumor","40",347,NA,"not hispanic or latino","male","white","Alive","14834",3
+"11","72973a8d-f6c0-4975-b6c1-abdda91a4416.rna_seq.augmented_star_gene_counts.tsv","TCGA-SX-A7SU","TCGA-SX-A7SU-01A","Primary Tumor","47",1331,NA,"hispanic or latino","male","not reported","Alive","17349",3
+"12","7a5f90d5-d9b3-4ddd-b182-24c4574b40ce.rna_seq.augmented_star_gene_counts.tsv","TCGA-P4-A5E8","TCGA-P4-A5E8-01A","Primary Tumor","57",NA,1306,"not hispanic or latino","male","white","Dead","21132",1
+"13","8a4ab2ed-837f-426f-aad9-68af7b81085a.rna_seq.augmented_star_gene_counts.tsv","TCGA-2Z-A9J3","TCGA-2Z-A9J3-01A","Primary Tumor","67",NA,1771,"not hispanic or latino","male","white","Dead","24626",3
+"14","8dd4472b-2d8d-4a25-b052-a46efebd6240.rna_seq.augmented_star_gene_counts.tsv","TCGA-A4-A5XZ","TCGA-A4-A5XZ-01A","Primary Tumor","65",479,NA,"not hispanic or latino","female","white","Alive","24006",3
+"15","8eb9d579-9aad-437b-9f15-dc6dde7cc7c8.rna_seq.augmented_star_gene_counts.tsv","TCGA-BQ-5884","TCGA-BQ-5884-01A","Primary Tumor","59",792,NA,"not reported","female","black or african american","Alive","21730",1
+"16","90985f9d-0403-4f49-9cd5-020d220ac220.rna_seq.augmented_star_gene_counts.tsv","TCGA-UZ-A9PS","TCGA-UZ-A9PS-05A","Additional - New Primary","62",2167,NA,"not hispanic or latino","female","black or african american","Alive","22646",1
+"17","977eb6f8-97b0-4816-992e-ec02913930da.rna_seq.augmented_star_gene_counts.tsv","TCGA-BQ-5888","TCGA-BQ-5888-01A","Primary Tumor","74",403,NA,"not reported","female","white","Alive","27346",1
+"18","9846ade8-aabc-4df6-9fbd-04c7b82391e0.rna_seq.augmented_star_gene_counts.tsv","TCGA-A4-7997","TCGA-A4-7997-01A","Primary Tumor","67",927,NA,"not hispanic or latino","male","white","Alive","24486",3
+"19","9fadf229-c49f-4b92-ae15-7c0c61e8e593.rna_seq.augmented_star_gene_counts.tsv","TCGA-A4-7288","TCGA-A4-7288-01A","Primary Tumor","71",1857,NA,"not hispanic or latino","female","white","Alive","26268",3
+"20","abf0f556-60d7-4a12-8ce6-26d7eb8cdd81.rna_seq.augmented_star_gene_counts.tsv","TCGA-UZ-A9PO","TCGA-UZ-A9PO-01A","Primary Tumor","80",1911,NA,"not hispanic or latino","male","white","Alive","29220",2
+"21","b0df9ffd-4a37-4a38-90b6-a18314606ebb.rna_seq.augmented_star_gene_counts.tsv","TCGA-2Z-A9J5","TCGA-2Z-A9J5-01A","Primary Tumor","80",3050,NA,"not hispanic or latino","male","white","Alive","29275",2
+"22","b1f7af2a-a39b-44c7-a077-e1df6b18268a.rna_seq.augmented_star_gene_counts.tsv","TCGA-MH-A855","TCGA-MH-A855-01A","Primary Tumor","52",369,NA,"not hispanic or latino","female","black or african american","Alive","19029",3
+"23","b7d0b30b-5faa-4ca0-aa58-28715449175a.rna_seq.augmented_star_gene_counts.tsv","TCGA-5P-A9JU","TCGA-5P-A9JU-01A","Primary Tumor","81",373,NA,"not hispanic or latino","male","white","Alive","29594",2
+"24","b88e27b6-8275-48a6-9288-575da556599a.rna_seq.augmented_star_gene_counts.tsv","TCGA-IZ-8196","TCGA-IZ-8196-01A","Primary Tumor","50",649,NA,"not hispanic or latino","male","white","Alive","18540",3
+"25","ee0c0e7a-05ec-404d-babd-5d51b71da9c1.rna_seq.augmented_star_gene_counts.tsv","TCGA-BQ-5892","TCGA-BQ-5892-01A","Primary Tumor","51",364,NA,"not hispanic or latino","male","white","Alive","18785",1
+"26","ee576868-7c56-4149-9300-44fc7a0a3d4e.rna_seq.augmented_star_gene_counts.tsv","TCGA-2Z-A9J1","TCGA-2Z-A9J1-01A","Primary Tumor","71",2298,NA,"not hispanic or latino","male","white","Alive","26244",3
+"27","efb9fb60-4460-4ff0-ad32-affc7d42fca9.rna_seq.augmented_star_gene_counts.tsv","TCGA-A4-7585","TCGA-A4-7585-01A","Primary Tumor","67",NA,1070,"not hispanic or latino","male","white","Dead","24778",1
+"28","f499b7d4-8d31-47a3-ae6c-3244291f4e05.rna_seq.augmented_star_gene_counts.tsv","TCGA-5P-A9K8","TCGA-5P-A9K8-01A","Primary Tumor","51",1309,NA,"not hispanic or latino","female","white","Alive","18880",1
+"29","fb7c4c02-0eba-49be-94b6-f9b7943f5925.rna_seq.augmented_star_gene_counts.tsv","TCGA-WN-A9G9","TCGA-WN-A9G9-01A","Primary Tumor","55",791,NA,"not hispanic or latino","male","white","Alive","'--",2
+"30","fcfc91d4-55c7-4017-bfc0-84e709ab4399.rna_seq.augmented_star_gene_counts.tsv","TCGA-BQ-7048","TCGA-BQ-7048-01A","Primary Tumor","64",2839,NA,"not hispanic or latino","male","white","Alive","23460",1
